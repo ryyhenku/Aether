@@ -23,7 +23,7 @@ set(CMAKE_COLOR_DIAGNOSTICS false)
 set(PATH_WORKSPACE_ROOT ${CMAKE_CURRENT_LIST_DIR}/../../)
 
 # 包含 cortex-m4 配置（必须在 project() 之后）
-include(${PATH_WORKSPACE_ROOT}/arch/cortex-m4/cortex-m4.cmake)
+include(${PATH_WORKSPACE_ROOT}/arch/arm/arm-v7m/cortex-m4/cortex-m4.cmake)
 
 # 设置工程输出路径（必须在 project() 之前设置）
 set(CMAKE_BINARY_DIR ${CMAKE_CURRENT_LIST_DIR}/build)
@@ -72,12 +72,12 @@ set_source_files_properties(${STARTUP_ASM} PROPERTIES
 #平台相关
 #架构
 set(Src_Arch
-    ${PATH_WORKSPACE_ROOT}/arch/cortex-m4/cortex_m4_startup_gcc.s
-    ${PATH_WORKSPACE_ROOT}/arch/cortex-m4/port.c
+    ${PATH_WORKSPACE_ROOT}/arch/arm/arm-v7m/cortex-m4/cortex_m4_startup_gcc.s
+    ${PATH_WORKSPACE_ROOT}/arch/arm/arm-v7m/cortex-m4/port.c
     ${PATH_WORKSPACE_ROOT}/Drivers/STM32F4xx_StdPeriph_Driver/src/misc.c
 )
 set(Inc_Arch
-    ${PATH_WORKSPACE_ROOT}/arch/cortex-m4
+    ${PATH_WORKSPACE_ROOT}/arch/arm/arm-v7m/cortex-m4
 )
 #驱动
 set(Src_Drivers

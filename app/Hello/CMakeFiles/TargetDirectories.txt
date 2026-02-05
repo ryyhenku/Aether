@@ -1,3 +1,0 @@
-C:/Users/11958/Desktop/STM32_Template/app/Hello/CMakeFiles/hello.elf.dir
-C:/Users/11958/Desktop/STM32_Template/app/Hello/CMakeFiles/edit_cache.dir
-C:/Users/11958/Desktop/STM32_Template/app/Hello/CMakeFiles/rebuild_cache.dir
