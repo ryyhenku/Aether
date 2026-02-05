@@ -1,0 +1,25 @@
+
+{
+    "configurations": [
+        {
+            "cwd": "${workspaceFolder}",
+            "executable": "./build/ethercat_slave.elf",
+            "name": "Debug with JLink",
+            "interface": "jtag",
+            "request": "launch",
+            "type": "cortex-debug",
+            "device":"STM32F103VC",
+            "runToEntryPoint": "main",
+            "showDevDebugOutput": "none",
+            "servertype": "external",
+            "gdbTarget": "127.0.0.1:2331",
+            "gdbPath": "${workspaceFolder}/../../tools/arm/tool-chain/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-gdb.exe",
+            "serverpath": "C:/Program Files/SEGGER/JLink_V824/JLinkGDBServerCL.exe",
+            "overrideLaunchCommands": [
+                // 加载 GDB 脚本
+                "load"
+            ]
+            
+        }
+    ]
+}

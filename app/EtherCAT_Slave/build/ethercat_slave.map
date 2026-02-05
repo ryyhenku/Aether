@@ -1,0 +1,652 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/users/11958/desktop/template/tools/arm/tool-chain/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc.a(lib_a-strcmp.o)
+                              CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/subsys/spi_hal/subsys_spi.c.obj (strcmp)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/subsys/spi_hal/subsys_spi.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/subsys/spi_hal/subsys_spi.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/subsys/spi_hal/subsys_spi.c.obj
+ .text.spi_bus_read
+                0x00000000       0x2a CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/subsys/spi_hal/subsys_spi.c.obj
+ .text.spi_bus_write_and_read
+                0x00000000       0x2a CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/subsys/spi_hal/subsys_spi.c.obj
+ .text          0x00000000        0x0 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/arch/arm/arm-v7m/cortex-m3/cortex_m3_startup_gcc.s.obj
+ .data          0x00000000        0x0 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/arch/arm/arm-v7m/cortex-m3/cortex_m3_startup_gcc.s.obj
+ .bss           0x00000000        0x0 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/arch/arm/arm-v7m/cortex-m3/cortex_m3_startup_gcc.s.obj
+ .text          0x00000000        0x0 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/misc.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/misc.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/misc.c.obj
+ .text.NVIC_PriorityGroupConfig
+                0x00000000       0x24 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/misc.c.obj
+ .text.NVIC_Init
+                0x00000000       0xc4 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/misc.c.obj
+ .text.NVIC_SetVectorTable
+                0x00000000       0x2c CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/misc.c.obj
+ .text.NVIC_SystemLPConfig
+                0x00000000       0x40 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/misc.c.obj
+ .text.SysTick_CLKSourceConfig
+                0x00000000       0x38 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/misc.c.obj
+ .debug_info    0x00000000      0x50c CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/misc.c.obj
+ .debug_abbrev  0x00000000      0x181 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/misc.c.obj
+ .debug_aranges
+                0x00000000       0x40 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/misc.c.obj
+ .debug_ranges  0x00000000       0x30 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/misc.c.obj
+ .debug_line    0x00000000      0x321 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/misc.c.obj
+ .debug_str     0x00000000      0x3fd CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/misc.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/misc.c.obj
+ .debug_frame   0x00000000       0xd8 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/misc.c.obj
+ .ARM.attributes
+                0x00000000       0x2d CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/misc.c.obj
+ .text          0x00000000        0x0 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/system_stm32f10x.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/system_stm32f10x.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/system_stm32f10x.c.obj
+ .data.SystemCoreClock
+                0x00000000        0x4 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/system_stm32f10x.c.obj
+ .data.AHBPrescTable
+                0x00000000       0x10 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/system_stm32f10x.c.obj
+ .text.SystemCoreClockUpdate
+                0x00000000       0xec CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/system_stm32f10x.c.obj
+ .text          0x00000000        0x0 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.c.obj
+ .text.SPI_I2S_DeInit
+                0x00000000       0x74 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.c.obj
+ .text.I2S_Init
+                0x00000000      0x168 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.c.obj
+ .text.SPI_StructInit
+                0x00000000       0x48 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.c.obj
+ .text.I2S_StructInit
+                0x00000000       0x36 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.c.obj
+ .text.I2S_Cmd  0x00000000       0x3e CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.c.obj
+ .text.SPI_I2S_ITConfig
+                0x00000000       0x60 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.c.obj
+ .text.SPI_I2S_DMACmd
+                0x00000000       0x46 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.c.obj
+ .text.SPI_NSSInternalSoftwareConfig
+                0x00000000       0x42 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.c.obj
+ .text.SPI_SSOutputCmd
+                0x00000000       0x3e CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.c.obj
+ .text.SPI_DataSizeConfig
+                0x00000000       0x36 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.c.obj
+ .text.SPI_TransmitCRC
+                0x00000000       0x22 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.c.obj
+ .text.SPI_CalculateCRC
+                0x00000000       0x3e CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.c.obj
+ .text.SPI_GetCRC
+                0x00000000       0x30 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.c.obj
+ .text.SPI_GetCRCPolynomial
+                0x00000000       0x18 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.c.obj
+ .text.SPI_BiDirectionalLineConfig
+                0x00000000       0x40 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.c.obj
+ .text.SPI_I2S_ClearFlag
+                0x00000000       0x20 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.c.obj
+ .text.SPI_I2S_GetITStatus
+                0x00000000       0x74 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.c.obj
+ .text.SPI_I2S_ClearITPendingBit
+                0x00000000       0x32 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.c.obj
+ .text          0x00000000        0x0 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c.obj
+ .data.APBAHBPrescTable
+                0x00000000       0x10 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c.obj
+ .data.ADCPrescTable
+                0x00000000        0x4 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c.obj
+ .text.RCC_DeInit
+                0x00000000       0x5c CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c.obj
+ .text.RCC_HSEConfig
+                0x00000000       0x5c CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c.obj
+ .text.RCC_WaitForHSEStartUp
+                0x00000000       0x50 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c.obj
+ .text.RCC_AdjustHSICalibrationValue
+                0x00000000       0x3c CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c.obj
+ .text.RCC_HSICmd
+                0x00000000       0x20 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c.obj
+ .text.RCC_PLLConfig
+                0x00000000       0x3c CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c.obj
+ .text.RCC_PLLCmd
+                0x00000000       0x20 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c.obj
+ .text.RCC_SYSCLKConfig
+                0x00000000       0x38 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c.obj
+ .text.RCC_GetSYSCLKSource
+                0x00000000       0x1c CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c.obj
+ .text.RCC_HCLKConfig
+                0x00000000       0x38 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c.obj
+ .text.RCC_PCLK1Config
+                0x00000000       0x38 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c.obj
+ .text.RCC_PCLK2Config
+                0x00000000       0x38 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c.obj
+ .text.RCC_ITConfig
+                0x00000000       0x4c CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c.obj
+ .text.RCC_USBCLKConfig
+                0x00000000       0x1c CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c.obj
+ .text.RCC_ADCCLKConfig
+                0x00000000       0x38 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c.obj
+ .text.RCC_LSEConfig
+                0x00000000       0x40 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c.obj
+ .text.RCC_LSICmd
+                0x00000000       0x20 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c.obj
+ .text.RCC_RTCCLKConfig
+                0x00000000       0x24 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c.obj
+ .text.RCC_RTCCLKCmd
+                0x00000000       0x20 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c.obj
+ .text.RCC_GetClocksFreq
+                0x00000000      0x174 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c.obj
+ .text.RCC_AHBPeriphClockCmd
+                0x00000000       0x3c CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c.obj
+ .text.RCC_APB2PeriphResetCmd
+                0x00000000       0x3c CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c.obj
+ .text.RCC_APB1PeriphResetCmd
+                0x00000000       0x3c CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c.obj
+ .text.RCC_BackupResetCmd
+                0x00000000       0x20 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c.obj
+ .text.RCC_ClockSecuritySystemCmd
+                0x00000000       0x20 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c.obj
+ .text.RCC_MCOConfig
+                0x00000000       0x20 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c.obj
+ .text.RCC_GetFlagStatus
+                0x00000000       0x74 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c.obj
+ .text.RCC_ClearFlag
+                0x00000000       0x1c CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c.obj
+ .text.RCC_GetITStatus
+                0x00000000       0x34 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c.obj
+ .text.RCC_ClearITPendingBit
+                0x00000000       0x20 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c.obj
+ .text          0x00000000        0x0 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.c.obj
+ .text.GPIO_DeInit
+                0x00000000       0xe4 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.c.obj
+ .text.GPIO_AFIODeInit
+                0x00000000       0x18 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.c.obj
+ .text.GPIO_StructInit
+                0x00000000       0x26 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.c.obj
+ .text.GPIO_ReadInputDataBit
+                0x00000000       0x32 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.c.obj
+ .text.GPIO_ReadInputData
+                0x00000000       0x18 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.c.obj
+ .text.GPIO_ReadOutputDataBit
+                0x00000000       0x32 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.c.obj
+ .text.GPIO_ReadOutputData
+                0x00000000       0x18 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.c.obj
+ .text.GPIO_WriteBit
+                0x00000000       0x2e CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.c.obj
+ .text.GPIO_Write
+                0x00000000       0x1c CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.c.obj
+ .text.GPIO_PinLockConfig
+                0x00000000       0x42 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.c.obj
+ .text.GPIO_EventOutputConfig
+                0x00000000       0x4c CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.c.obj
+ .text.GPIO_EventOutputCmd
+                0x00000000       0x20 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.c.obj
+ .text.GPIO_PinRemapConfig
+                0x00000000       0xe0 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.c.obj
+ .text.GPIO_EXTILineConfig
+                0x00000000       0x80 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.c.obj
+ .text.GPIO_ETH_MediaInterfaceConfig
+                0x00000000       0x1c CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.c.obj
+ .text          0x00000000        0x0 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/board_bsp.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/board_bsp.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/board_bsp.c.obj
+ .text          0x00000000        0x0 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/bsp/stm32f103_ethercat_spi.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/bsp/stm32f103_ethercat_spi.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/bsp/stm32f103_ethercat_spi.c.obj
+ .text          0x00000000        0x0 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/bsp/stm32f103_spi2.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/bsp/stm32f103_spi2.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/bsp/stm32f103_spi2.c.obj
+ .text          0x00000000        0x0 CMakeFiles/ethercat_slave.elf.dir/main.c.obj
+ .data          0x00000000        0x0 CMakeFiles/ethercat_slave.elf.dir/main.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/ethercat_slave.elf.dir/main.c.obj
+ .data          0x00000000        0x0 c:/users/11958/desktop/template/tools/arm/tool-chain/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc.a(lib_a-strcmp.o)
+ .bss           0x00000000        0x0 c:/users/11958/desktop/template/tools/arm/tool-chain/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc.a(lib_a-strcmp.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x08000000         0x00040000         xr
+RAM              0x20000000         0x0000c000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/subsys/spi_hal/subsys_spi.c.obj
+LOAD CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/arch/arm/arm-v7m/cortex-m3/cortex_m3_startup_gcc.s.obj
+LOAD CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/misc.c.obj
+LOAD CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/system_stm32f10x.c.obj
+LOAD CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.c.obj
+LOAD CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c.obj
+LOAD CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.c.obj
+LOAD CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/board_bsp.c.obj
+LOAD CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/bsp/stm32f103_ethercat_spi.c.obj
+LOAD CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/bsp/stm32f103_spi2.c.obj
+LOAD CMakeFiles/ethercat_slave.elf.dir/main.c.obj
+LOAD c:/users/11958/desktop/template/tools/arm/tool-chain/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc.a
+LOAD c:/users/11958/desktop/template/tools/arm/tool-chain/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libm.a
+LOAD c:/users/11958/desktop/template/tools/arm/tool-chain/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a
+START GROUP
+LOAD c:/users/11958/desktop/template/tools/arm/tool-chain/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp\libgcc.a
+LOAD c:/users/11958/desktop/template/tools/arm/tool-chain/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a
+LOAD c:/users/11958/desktop/template/tools/arm/tool-chain/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc.a
+END GROUP
+START GROUP
+LOAD c:/users/11958/desktop/template/tools/arm/tool-chain/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp\libgcc.a
+LOAD c:/users/11958/desktop/template/tools/arm/tool-chain/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc.a
+LOAD c:/users/11958/desktop/template/tools/arm/tool-chain/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a
+END GROUP
+                0x2000c000                __main_stack_top = (ORIGIN (RAM) + LENGTH (RAM))
+
+.isr_vector     0x08000000      0x134
+                0x08000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x134 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/arch/arm/arm-v7m/cortex-m3/cortex_m3_startup_gcc.s.obj
+                0x08000000                isr_vector
+                0x08000134                . = ALIGN (0x4)
+
+.text           0x08000134      0xc88
+                0x08000134                . = ALIGN (0x4)
+ *(.text)
+ .text          0x08000134      0x1bc c:/users/11958/desktop/template/tools/arm/tool-chain/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc.a(lib_a-strcmp.o)
+                0x08000134                strcmp
+ *(.text*)
+ .text.spi_bus_ops_get_by_name
+                0x080002f0       0x58 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/subsys/spi_hal/subsys_spi.c.obj
+                0x080002f0                spi_bus_ops_get_by_name
+ .text.spi_bus_register
+                0x08000348       0x40 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/subsys/spi_hal/subsys_spi.c.obj
+                0x08000348                spi_bus_register
+ .text.spi_bus_init
+                0x08000388       0x1e CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/subsys/spi_hal/subsys_spi.c.obj
+                0x08000388                spi_bus_init
+ .text.spi_bus_write
+                0x080003a6       0x2a CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/subsys/spi_hal/subsys_spi.c.obj
+                0x080003a6                spi_bus_write
+ .text.spi_bus_cs_select
+                0x080003d0       0x1e CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/subsys/spi_hal/subsys_spi.c.obj
+                0x080003d0                spi_bus_cs_select
+ .text.spi_bus_cs_deselect
+                0x080003ee       0x1e CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/subsys/spi_hal/subsys_spi.c.obj
+                0x080003ee                spi_bus_cs_deselect
+ .text.Reset_Handler
+                0x0800040c       0x4c CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/arch/arm/arm-v7m/cortex-m3/cortex_m3_startup_gcc.s.obj
+                0x0800040c                Reset_Handler
+ .text.Default_Handler
+                0x08000458        0x2 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/arch/arm/arm-v7m/cortex-m3/cortex_m3_startup_gcc.s.obj
+                0x08000458                RTC_Alarm_IRQHandler
+                0x08000458                EXTI2_IRQHandler
+                0x08000458                TIM8_CC_IRQHandler
+                0x08000458                DebugMon_Handler
+                0x08000458                TIM1_CC_IRQHandler
+                0x08000458                DMA2_Stream5_IRQHandler
+                0x08000458                HardFault_Handler
+                0x08000458                DMA1_Stream5_IRQHandler
+                0x08000458                PVD_IRQHandler
+                0x08000458                SDIO_IRQHandler
+                0x08000458                TAMP_STAMP_IRQHandler
+                0x08000458                NMI_Handler
+                0x08000458                CAN2_RX1_IRQHandler
+                0x08000458                EXTI3_IRQHandler
+                0x08000458                TIM8_TRG_COM_TIM14_IRQHandler
+                0x08000458                TIM1_UP_TIM10_IRQHandler
+                0x08000458                TIM8_UP_TIM13_IRQHandler
+                0x08000458                xPortSysTickHandler
+                0x08000458                EXTI0_IRQHandler
+                0x08000458                I2C2_EV_IRQHandler
+                0x08000458                DMA1_Stream2_IRQHandler
+                0x08000458                CAN1_RX0_IRQHandler
+                0x08000458                UsageFault_Handler
+                0x08000458                xPortPendSVHandler
+                0x08000458                CAN2_SCE_IRQHandler
+                0x08000458                DMA2_Stream2_IRQHandler
+                0x08000458                SPI1_IRQHandler
+                0x08000458                TIM6_DAC_IRQHandler
+                0x08000458                TIM1_BRK_TIM9_IRQHandler
+                0x08000458                CAN2_RX0_IRQHandler
+                0x08000458                DMA2_Stream3_IRQHandler
+                0x08000458                USART3_IRQHandler
+                0x08000458                CAN1_RX1_IRQHandler
+                0x08000458                UART5_IRQHandler
+                0x08000458                DMA2_Stream0_IRQHandler
+                0x08000458                TIM4_IRQHandler
+                0x08000458                I2C1_EV_IRQHandler
+                0x08000458                DMA1_Stream6_IRQHandler
+                0x08000458                DMA1_Stream1_IRQHandler
+                0x08000458                UART4_IRQHandler
+                0x08000458                TIM3_IRQHandler
+                0x08000458                RCC_IRQHandler
+                0x08000458                TIM8_BRK_TIM12_IRQHandler
+                0x08000458                EXTI15_10_IRQHandler
+                0x08000458                ADC_IRQHandler
+                0x08000458                DMA1_Stream7_IRQHandler
+                0x08000458                TIM7_IRQHandler
+                0x08000458                CAN2_TX_IRQHandler
+                0x08000458                TIM5_IRQHandler
+                0x08000458                DMA2_Stream7_IRQHandler
+                0x08000458                EXTI9_5_IRQHandler
+                0x08000458                RTC_WKUP_IRQHandler
+                0x08000458                ETH_WKUP_IRQHandler
+                0x08000458                SPI2_IRQHandler
+                0x08000458                MemManage_Handler
+                0x08000458                DMA1_Stream0_IRQHandler
+                0x08000458                CAN1_TX_IRQHandler
+                0x08000458                vPortSVCHandler
+                0x08000458                EXTI4_IRQHandler
+                0x08000458                ETH_IRQHandler
+                0x08000458                WWDG_IRQHandler
+                0x08000458                TIM2_IRQHandler
+                0x08000458                OTG_FS_WKUP_IRQHandler
+                0x08000458                TIM1_TRG_COM_TIM11_IRQHandler
+                0x08000458                EXTI1_IRQHandler
+                0x08000458                USART2_IRQHandler
+                0x08000458                I2C2_ER_IRQHandler
+                0x08000458                DMA2_Stream1_IRQHandler
+                0x08000458                CAN1_SCE_IRQHandler
+                0x08000458                FLASH_IRQHandler
+                0x08000458                DMA2_Stream4_IRQHandler
+                0x08000458                BusFault_Handler
+                0x08000458                USART1_IRQHandler
+                0x08000458                OTG_FS_IRQHandler
+                0x08000458                SPI3_IRQHandler
+                0x08000458                DMA1_Stream4_IRQHandler
+                0x08000458                I2C1_ER_IRQHandler
+                0x08000458                FMC_IRQHandler
+                0x08000458                DMA2_Stream6_IRQHandler
+                0x08000458                DMA1_Stream3_IRQHandler
+ *fill*         0x0800045a        0x2 
+ .text.SystemInit
+                0x0800045c       0x68 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/system_stm32f10x.c.obj
+                0x0800045c                SystemInit
+ .text.SetSysClock
+                0x080004c4        0xc CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/system_stm32f10x.c.obj
+ .text.SetSysClockTo72
+                0x080004d0      0x100 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/system_stm32f10x.c.obj
+ .text.SPI_Init
+                0x080005d0       0x86 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.c.obj
+                0x080005d0                SPI_Init
+ .text.SPI_Cmd  0x08000656       0x3e CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.c.obj
+                0x08000656                SPI_Cmd
+ .text.SPI_I2S_SendData
+                0x08000694       0x1c CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.c.obj
+                0x08000694                SPI_I2S_SendData
+ .text.SPI_I2S_ReceiveData
+                0x080006b0       0x18 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.c.obj
+                0x080006b0                SPI_I2S_ReceiveData
+ .text.SPI_I2S_GetFlagStatus
+                0x080006c8       0x36 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.c.obj
+                0x080006c8                SPI_I2S_GetFlagStatus
+ *fill*         0x080006fe        0x2 
+ .text.RCC_APB2PeriphClockCmd
+                0x08000700       0x3c CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c.obj
+                0x08000700                RCC_APB2PeriphClockCmd
+ .text.RCC_APB1PeriphClockCmd
+                0x0800073c       0x3c CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c.obj
+                0x0800073c                RCC_APB1PeriphClockCmd
+ .text.GPIO_Init
+                0x08000778      0x178 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.c.obj
+                0x08000778                GPIO_Init
+ .text.GPIO_SetBits
+                0x080008f0       0x1c CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.c.obj
+                0x080008f0                GPIO_SetBits
+ .text.GPIO_ResetBits
+                0x0800090c       0x1c CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.c.obj
+                0x0800090c                GPIO_ResetBits
+ .text.board_bsp_devs_register
+                0x08000928       0x10 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/board_bsp.c.obj
+                0x08000928                board_bsp_devs_register
+ .text.SPI1_Init
+                0x08000938       0x94 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/bsp/stm32f103_ethercat_spi.c.obj
+                0x08000938                SPI1_Init
+ .text.SPI1_Write
+                0x080009cc       0x64 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/bsp/stm32f103_ethercat_spi.c.obj
+                0x080009cc                SPI1_Write
+ .text.SPI1_Read
+                0x08000a30       0x68 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/bsp/stm32f103_ethercat_spi.c.obj
+                0x08000a30                SPI1_Read
+ .text.SPI1_Write_And_Read
+                0x08000a98       0x78 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/bsp/stm32f103_ethercat_spi.c.obj
+                0x08000a98                SPI1_Write_And_Read
+ .text.spi1_cs_select
+                0x08000b10       0x14 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/bsp/stm32f103_ethercat_spi.c.obj
+                0x08000b10                spi1_cs_select
+ .text.spi1_cs_deselect
+                0x08000b24       0x14 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/bsp/stm32f103_ethercat_spi.c.obj
+                0x08000b24                spi1_cs_deselect
+ .text.spi1_dev_register
+                0x08000b38       0x14 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/bsp/stm32f103_ethercat_spi.c.obj
+                0x08000b38                spi1_dev_register
+ .text.SPI2_Init
+                0x08000b4c       0x98 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/bsp/stm32f103_spi2.c.obj
+                0x08000b4c                SPI2_Init
+ .text.SPI2_Write
+                0x08000be4       0x64 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/bsp/stm32f103_spi2.c.obj
+                0x08000be4                SPI2_Write
+ .text.SPI2_Read
+                0x08000c48       0x68 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/bsp/stm32f103_spi2.c.obj
+                0x08000c48                SPI2_Read
+ .text.SPI2_Write_And_Read
+                0x08000cb0       0x78 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/bsp/stm32f103_spi2.c.obj
+                0x08000cb0                SPI2_Write_And_Read
+ .text.SPI2_CS_Select
+                0x08000d28       0x18 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/bsp/stm32f103_spi2.c.obj
+                0x08000d28                SPI2_CS_Select
+ .text.SPI2_CS_Dselect
+                0x08000d40       0x18 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/bsp/stm32f103_spi2.c.obj
+                0x08000d40                SPI2_CS_Dselect
+ .text.spi2_dev_register
+                0x08000d58       0x14 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/bsp/stm32f103_spi2.c.obj
+                0x08000d58                spi2_dev_register
+ .text.main     0x08000d6c       0x50 CMakeFiles/ethercat_slave.elf.dir/main.c.obj
+                0x08000d6c                main
+ *(.glue_7)
+ .glue_7        0x08000dbc        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x08000dbc        0x0 linker stubs
+ *(.eh_frame)
+ *(.init)
+ *(.fini)
+                0x08000dbc                . = ALIGN (0x4)
+                0x08000dbc                _etext = .
+
+.vfp11_veneer   0x08000dbc        0x0
+ .vfp11_veneer  0x08000dbc        0x0 linker stubs
+
+.v4_bx          0x08000dbc        0x0
+ .v4_bx         0x08000dbc        0x0 linker stubs
+
+.iplt           0x08000dbc        0x0
+ .iplt          0x08000dbc        0x0 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/subsys/spi_hal/subsys_spi.c.obj
+
+.rodata         0x08000dbc       0x18
+                0x08000dbc                . = ALIGN (0x4)
+ *(.rodata)
+ .rodata        0x08000dbc        0x5 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/bsp/stm32f103_ethercat_spi.c.obj
+ *fill*         0x08000dc1        0x3 
+ .rodata        0x08000dc4        0x5 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/bsp/stm32f103_spi2.c.obj
+ *fill*         0x08000dc9        0x3 
+ .rodata        0x08000dcc        0x5 CMakeFiles/ethercat_slave.elf.dir/main.c.obj
+ *(.rodata*)
+                0x08000dd4                . = ALIGN (0x4)
+ *fill*         0x08000dd1        0x3 
+                0x08000dd4                _sidata = LOADADDR (.data)
+
+.rel.dyn        0x08000dd4        0x0
+ .rel.iplt      0x08000dd4        0x0 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/subsys/spi_hal/subsys_spi.c.obj
+
+.data           0x20000000       0x38 load address 0x08000dd4
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ *(.data*)
+ .data.__spi1_ops
+                0x20000000       0x1c CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/bsp/stm32f103_ethercat_spi.c.obj
+ .data.__spi2_ops
+                0x2000001c       0x1c CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/bsp/stm32f103_spi2.c.obj
+                0x20000038                . = ALIGN (0x4)
+                0x20000038                _edata = .
+
+.igot.plt       0x20000038        0x0 load address 0x08000e0c
+ .igot.plt      0x20000038        0x0 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/subsys/spi_hal/subsys_spi.c.obj
+
+.bss            0x20000038       0x30 load address 0x08000e0c
+                0x20000038                . = ALIGN (0x4)
+                0x20000038                _sbss = .
+ *(.bss)
+ *(.bss*)
+ .bss.__spi_buses
+                0x20000038       0x20 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/subsys/spi_hal/subsys_spi.c.obj
+ .bss.__spi_bus_count
+                0x20000058        0x1 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/subsys/spi_hal/subsys_spi.c.obj
+ *fill*         0x20000059        0x3 
+ .bss.p_spi_2   0x2000005c        0x4 CMakeFiles/ethercat_slave.elf.dir/main.c.obj
+                0x2000005c                p_spi_2
+ .bss.test_buf  0x20000060        0x5 CMakeFiles/ethercat_slave.elf.dir/main.c.obj
+                0x20000060                test_buf
+ *(COMMON)
+                0x20000068                . = ALIGN (0x4)
+ *fill*         0x20000065        0x3 
+                0x20000068                _ebss = .
+                0x20000068                . = ALIGN (0x4)
+                [!provide]                PROVIDE (end = .)
+OUTPUT(build/ethercat_slave.elf elf32-littlearm)
+LOAD linker stubs
+
+.debug_info     0x00000000     0x2f21
+ .debug_info    0x00000000      0x35c CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/subsys/spi_hal/subsys_spi.c.obj
+ .debug_info    0x0000035c       0x22 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/arch/arm/arm-v7m/cortex-m3/cortex_m3_startup_gcc.s.obj
+ .debug_info    0x0000037e      0x475 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/system_stm32f10x.c.obj
+ .debug_info    0x000007f3      0x95a CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.c.obj
+ .debug_info    0x0000114d      0x8f3 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c.obj
+ .debug_info    0x00001a40      0x72e CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.c.obj
+ .debug_info    0x0000216e       0x38 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/board_bsp.c.obj
+ .debug_info    0x000021a6      0x5ea CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/bsp/stm32f103_ethercat_spi.c.obj
+ .debug_info    0x00002790      0x5ea CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/bsp/stm32f103_spi2.c.obj
+ .debug_info    0x00002d7a      0x1a7 CMakeFiles/ethercat_slave.elf.dir/main.c.obj
+
+.debug_abbrev   0x00000000      0xc5a
+ .debug_abbrev  0x00000000      0x138 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/subsys/spi_hal/subsys_spi.c.obj
+ .debug_abbrev  0x00000138       0x12 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/arch/arm/arm-v7m/cortex-m3/cortex_m3_startup_gcc.s.obj
+ .debug_abbrev  0x0000014a      0x1ae CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/system_stm32f10x.c.obj
+ .debug_abbrev  0x000002f8      0x1af CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.c.obj
+ .debug_abbrev  0x000004a7      0x1d3 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c.obj
+ .debug_abbrev  0x0000067a      0x1e9 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.c.obj
+ .debug_abbrev  0x00000863       0x2c CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/board_bsp.c.obj
+ .debug_abbrev  0x0000088f      0x187 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/bsp/stm32f103_ethercat_spi.c.obj
+ .debug_abbrev  0x00000a16      0x187 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/bsp/stm32f103_spi2.c.obj
+ .debug_abbrev  0x00000b9d       0xbd CMakeFiles/ethercat_slave.elf.dir/main.c.obj
+
+.debug_aranges  0x00000000      0x428
+ .debug_aranges
+                0x00000000       0x58 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/subsys/spi_hal/subsys_spi.c.obj
+ .debug_aranges
+                0x00000058       0x28 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/arch/arm/arm-v7m/cortex-m3/cortex_m3_startup_gcc.s.obj
+ .debug_aranges
+                0x00000080       0x38 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/system_stm32f10x.c.obj
+ .debug_aranges
+                0x000000b8       0xd0 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.c.obj
+ .debug_aranges
+                0x00000188      0x118 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c.obj
+ .debug_aranges
+                0x000002a0       0xa8 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.c.obj
+ .debug_aranges
+                0x00000348       0x20 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/board_bsp.c.obj
+ .debug_aranges
+                0x00000368       0x50 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/bsp/stm32f103_ethercat_spi.c.obj
+ .debug_aranges
+                0x000003b8       0x50 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/bsp/stm32f103_spi2.c.obj
+ .debug_aranges
+                0x00000408       0x20 CMakeFiles/ethercat_slave.elf.dir/main.c.obj
+
+.debug_ranges   0x00000000      0x390
+ .debug_ranges  0x00000000       0x48 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/subsys/spi_hal/subsys_spi.c.obj
+ .debug_ranges  0x00000048       0x20 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/arch/arm/arm-v7m/cortex-m3/cortex_m3_startup_gcc.s.obj
+ .debug_ranges  0x00000068       0x28 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/system_stm32f10x.c.obj
+ .debug_ranges  0x00000090       0xc0 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.c.obj
+ .debug_ranges  0x00000150      0x108 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c.obj
+ .debug_ranges  0x00000258       0x98 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.c.obj
+ .debug_ranges  0x000002f0       0x10 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/board_bsp.c.obj
+ .debug_ranges  0x00000300       0x40 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/bsp/stm32f103_ethercat_spi.c.obj
+ .debug_ranges  0x00000340       0x40 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/bsp/stm32f103_spi2.c.obj
+ .debug_ranges  0x00000380       0x10 CMakeFiles/ethercat_slave.elf.dir/main.c.obj
+
+.debug_line     0x00000000     0x23f8
+ .debug_line    0x00000000      0x29c CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/subsys/spi_hal/subsys_spi.c.obj
+ .debug_line    0x0000029c       0xb3 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/arch/arm/arm-v7m/cortex-m3/cortex_m3_startup_gcc.s.obj
+ .debug_line    0x0000034f      0x3ba CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/system_stm32f10x.c.obj
+ .debug_line    0x00000709      0x61c CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.c.obj
+ .debug_line    0x00000d25      0x765 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c.obj
+ .debug_line    0x0000148a      0x5ca CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.c.obj
+ .debug_line    0x00001a54       0x7b CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/board_bsp.c.obj
+ .debug_line    0x00001acf      0x3bb CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/bsp/stm32f103_ethercat_spi.c.obj
+ .debug_line    0x00001e8a      0x3b3 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/bsp/stm32f103_spi2.c.obj
+ .debug_line    0x0000223d      0x1bb CMakeFiles/ethercat_slave.elf.dir/main.c.obj
+
+.debug_str      0x00000000     0x12b0
+ .debug_str     0x00000000      0x2b2 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/subsys/spi_hal/subsys_spi.c.obj
+                                0x315 (size before relaxing)
+ .debug_str     0x000002b2       0x61 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/arch/arm/arm-v7m/cortex-m3/cortex_m3_startup_gcc.s.obj
+                                 0x94 (size before relaxing)
+ .debug_str     0x00000313      0x189 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/system_stm32f10x.c.obj
+                                0x325 (size before relaxing)
+ .debug_str     0x0000049c      0x49a CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.c.obj
+                                0x642 (size before relaxing)
+ .debug_str     0x00000936      0x390 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c.obj
+                                0x65f (size before relaxing)
+ .debug_str     0x00000cc6      0x392 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.c.obj
+                                0x55e (size before relaxing)
+ .debug_str     0x00001058       0x5d CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/board_bsp.c.obj
+                                0x128 (size before relaxing)
+ .debug_str     0x000010b5       0xee CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/bsp/stm32f103_ethercat_spi.c.obj
+                                0x565 (size before relaxing)
+ .debug_str     0x000011a3       0xbd CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/bsp/stm32f103_spi2.c.obj
+                                0x55c (size before relaxing)
+ .debug_str     0x00001260       0x50 CMakeFiles/ethercat_slave.elf.dir/main.c.obj
+                                0x252 (size before relaxing)
+
+.comment        0x00000000       0x49
+ .comment       0x00000000       0x49 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/subsys/spi_hal/subsys_spi.c.obj
+                                 0x4a (size before relaxing)
+ .comment       0x00000049       0x4a CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/system_stm32f10x.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/board_bsp.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/bsp/stm32f103_ethercat_spi.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/bsp/stm32f103_spi2.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/ethercat_slave.elf.dir/main.c.obj
+
+.ARM.attributes
+                0x00000000       0x2b
+ .ARM.attributes
+                0x00000000       0x2d CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/subsys/spi_hal/subsys_spi.c.obj
+ .ARM.attributes
+                0x0000002d       0x21 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/arch/arm/arm-v7m/cortex-m3/cortex_m3_startup_gcc.s.obj
+ .ARM.attributes
+                0x0000004e       0x2d CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/system_stm32f10x.c.obj
+ .ARM.attributes
+                0x0000007b       0x2d CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.c.obj
+ .ARM.attributes
+                0x000000a8       0x2d CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c.obj
+ .ARM.attributes
+                0x000000d5       0x2d CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.c.obj
+ .ARM.attributes
+                0x00000102       0x2d CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/board_bsp.c.obj
+ .ARM.attributes
+                0x0000012f       0x2d CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/bsp/stm32f103_ethercat_spi.c.obj
+ .ARM.attributes
+                0x0000015c       0x2d CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/bsp/stm32f103_spi2.c.obj
+ .ARM.attributes
+                0x00000189       0x2d CMakeFiles/ethercat_slave.elf.dir/main.c.obj
+ .ARM.attributes
+                0x000001b6       0x1b c:/users/11958/desktop/template/tools/arm/tool-chain/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc.a(lib_a-strcmp.o)
+
+.debug_frame    0x00000000      0xfa4
+ .debug_frame   0x00000000      0x134 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/subsys/spi_hal/subsys_spi.c.obj
+ .debug_frame   0x00000134       0x98 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/system_stm32f10x.c.obj
+ .debug_frame   0x000001cc      0x3a0 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.c.obj
+ .debug_frame   0x0000056c      0x4f4 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c.obj
+ .debug_frame   0x00000a60      0x2d0 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.c.obj
+ .debug_frame   0x00000d30       0x2c CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/board_bsp.c.obj
+ .debug_frame   0x00000d5c       0xf4 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/bsp/stm32f103_ethercat_spi.c.obj
+ .debug_frame   0x00000e50       0xf4 CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/bsp/stm32f103_spi2.c.obj
+ .debug_frame   0x00000f44       0x2c CMakeFiles/ethercat_slave.elf.dir/main.c.obj
+ .debug_frame   0x00000f70       0x34 c:/users/11958/desktop/template/tools/arm/tool-chain/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc.a(lib_a-strcmp.o)

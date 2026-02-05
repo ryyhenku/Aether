@@ -1,0 +1,3 @@
+C:/Users/11958/Desktop/Template/app/EtherCAT_Slave/CMakeFiles/ethercat_slave.elf.dir
+C:/Users/11958/Desktop/Template/app/EtherCAT_Slave/CMakeFiles/edit_cache.dir
+C:/Users/11958/Desktop/Template/app/EtherCAT_Slave/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,68 @@
+[
+{
+  "directory": "C:/Users/11958/Desktop/Template/app/EtherCAT_Slave",
+  "command": "C:/Users/11958/Desktop/Template/tools/arm/tool-chain/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-gcc.exe -DHSE_VALUE=12000000 -DSTM32F10X_HD -IC:/Users/11958/Desktop/Template/app/EtherCAT_Slave/../../subsys/spi_hal -IC:/Users/11958/Desktop/Template/app/EtherCAT_Slave/../../arch/arm/arm-v7m/cortex-m3 -IC:/Users/11958/Desktop/Template/app/EtherCAT_Slave/../../Drivers/STM32F10x_StdPeriph_Driver/inc -O0 -g  -mcpu=cortex-m3 -mthumb  --specs=nosys.specs -Wall -fmessage-length=0 -ffunction-sections -fdata-sections -o CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/subsys/spi_hal/subsys_spi.c.obj -c C:/Users/11958/Desktop/Template/subsys/spi_hal/subsys_spi.c",
+  "file": "C:/Users/11958/Desktop/Template/subsys/spi_hal/subsys_spi.c",
+  "output": "CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/subsys/spi_hal/subsys_spi.c.obj"
+},
+{
+  "directory": "C:/Users/11958/Desktop/Template/app/EtherCAT_Slave",
+  "command": "C:/Users/11958/Desktop/Template/tools/arm/tool-chain/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-gcc.exe -DHSE_VALUE=12000000 -DSTM32F10X_HD -IC:/Users/11958/Desktop/Template/app/EtherCAT_Slave/../../subsys/spi_hal -IC:/Users/11958/Desktop/Template/app/EtherCAT_Slave/../../arch/arm/arm-v7m/cortex-m3 -IC:/Users/11958/Desktop/Template/app/EtherCAT_Slave/../../Drivers/STM32F10x_StdPeriph_Driver/inc -O0 -g -o CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/arch/arm/arm-v7m/cortex-m3/cortex_m3_startup_gcc.s.obj -c C:/Users/11958/Desktop/Template/arch/arm/arm-v7m/cortex-m3/cortex_m3_startup_gcc.s",
+  "file": "C:/Users/11958/Desktop/Template/arch/arm/arm-v7m/cortex-m3/cortex_m3_startup_gcc.s",
+  "output": "CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/arch/arm/arm-v7m/cortex-m3/cortex_m3_startup_gcc.s.obj"
+},
+{
+  "directory": "C:/Users/11958/Desktop/Template/app/EtherCAT_Slave",
+  "command": "C:/Users/11958/Desktop/Template/tools/arm/tool-chain/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-gcc.exe -DHSE_VALUE=12000000 -DSTM32F10X_HD -IC:/Users/11958/Desktop/Template/app/EtherCAT_Slave/../../subsys/spi_hal -IC:/Users/11958/Desktop/Template/app/EtherCAT_Slave/../../arch/arm/arm-v7m/cortex-m3 -IC:/Users/11958/Desktop/Template/app/EtherCAT_Slave/../../Drivers/STM32F10x_StdPeriph_Driver/inc -O0 -g  -mcpu=cortex-m3 -mthumb  --specs=nosys.specs -Wall -fmessage-length=0 -ffunction-sections -fdata-sections -o CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/misc.c.obj -c C:/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/misc.c",
+  "file": "C:/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/misc.c",
+  "output": "CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/misc.c.obj"
+},
+{
+  "directory": "C:/Users/11958/Desktop/Template/app/EtherCAT_Slave",
+  "command": "C:/Users/11958/Desktop/Template/tools/arm/tool-chain/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-gcc.exe -DHSE_VALUE=12000000 -DSTM32F10X_HD -IC:/Users/11958/Desktop/Template/app/EtherCAT_Slave/../../subsys/spi_hal -IC:/Users/11958/Desktop/Template/app/EtherCAT_Slave/../../arch/arm/arm-v7m/cortex-m3 -IC:/Users/11958/Desktop/Template/app/EtherCAT_Slave/../../Drivers/STM32F10x_StdPeriph_Driver/inc -O0 -g  -mcpu=cortex-m3 -mthumb  --specs=nosys.specs -Wall -fmessage-length=0 -ffunction-sections -fdata-sections -o CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/system_stm32f10x.c.obj -c C:/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/system_stm32f10x.c",
+  "file": "C:/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/system_stm32f10x.c",
+  "output": "CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/system_stm32f10x.c.obj"
+},
+{
+  "directory": "C:/Users/11958/Desktop/Template/app/EtherCAT_Slave",
+  "command": "C:/Users/11958/Desktop/Template/tools/arm/tool-chain/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-gcc.exe -DHSE_VALUE=12000000 -DSTM32F10X_HD -IC:/Users/11958/Desktop/Template/app/EtherCAT_Slave/../../subsys/spi_hal -IC:/Users/11958/Desktop/Template/app/EtherCAT_Slave/../../arch/arm/arm-v7m/cortex-m3 -IC:/Users/11958/Desktop/Template/app/EtherCAT_Slave/../../Drivers/STM32F10x_StdPeriph_Driver/inc -O0 -g  -mcpu=cortex-m3 -mthumb  --specs=nosys.specs -Wall -fmessage-length=0 -ffunction-sections -fdata-sections -o CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.c.obj -c C:/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.c",
+  "file": "C:/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.c",
+  "output": "CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.c.obj"
+},
+{
+  "directory": "C:/Users/11958/Desktop/Template/app/EtherCAT_Slave",
+  "command": "C:/Users/11958/Desktop/Template/tools/arm/tool-chain/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-gcc.exe -DHSE_VALUE=12000000 -DSTM32F10X_HD -IC:/Users/11958/Desktop/Template/app/EtherCAT_Slave/../../subsys/spi_hal -IC:/Users/11958/Desktop/Template/app/EtherCAT_Slave/../../arch/arm/arm-v7m/cortex-m3 -IC:/Users/11958/Desktop/Template/app/EtherCAT_Slave/../../Drivers/STM32F10x_StdPeriph_Driver/inc -O0 -g  -mcpu=cortex-m3 -mthumb  --specs=nosys.specs -Wall -fmessage-length=0 -ffunction-sections -fdata-sections -o CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c.obj -c C:/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c",
+  "file": "C:/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c",
+  "output": "CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c.obj"
+},
+{
+  "directory": "C:/Users/11958/Desktop/Template/app/EtherCAT_Slave",
+  "command": "C:/Users/11958/Desktop/Template/tools/arm/tool-chain/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-gcc.exe -DHSE_VALUE=12000000 -DSTM32F10X_HD -IC:/Users/11958/Desktop/Template/app/EtherCAT_Slave/../../subsys/spi_hal -IC:/Users/11958/Desktop/Template/app/EtherCAT_Slave/../../arch/arm/arm-v7m/cortex-m3 -IC:/Users/11958/Desktop/Template/app/EtherCAT_Slave/../../Drivers/STM32F10x_StdPeriph_Driver/inc -O0 -g  -mcpu=cortex-m3 -mthumb  --specs=nosys.specs -Wall -fmessage-length=0 -ffunction-sections -fdata-sections -o CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.c.obj -c C:/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.c",
+  "file": "C:/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.c",
+  "output": "CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.c.obj"
+},
+{
+  "directory": "C:/Users/11958/Desktop/Template/app/EtherCAT_Slave",
+  "command": "C:/Users/11958/Desktop/Template/tools/arm/tool-chain/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-gcc.exe -DHSE_VALUE=12000000 -DSTM32F10X_HD -IC:/Users/11958/Desktop/Template/app/EtherCAT_Slave/../../subsys/spi_hal -IC:/Users/11958/Desktop/Template/app/EtherCAT_Slave/../../arch/arm/arm-v7m/cortex-m3 -IC:/Users/11958/Desktop/Template/app/EtherCAT_Slave/../../Drivers/STM32F10x_StdPeriph_Driver/inc -O0 -g  -mcpu=cortex-m3 -mthumb  --specs=nosys.specs -Wall -fmessage-length=0 -ffunction-sections -fdata-sections -o CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/board_bsp.c.obj -c C:/Users/11958/Desktop/Template/Board/stm32f103_ethercat/board_bsp.c",
+  "file": "C:/Users/11958/Desktop/Template/Board/stm32f103_ethercat/board_bsp.c",
+  "output": "CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/board_bsp.c.obj"
+},
+{
+  "directory": "C:/Users/11958/Desktop/Template/app/EtherCAT_Slave",
+  "command": "C:/Users/11958/Desktop/Template/tools/arm/tool-chain/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-gcc.exe -DHSE_VALUE=12000000 -DSTM32F10X_HD -IC:/Users/11958/Desktop/Template/app/EtherCAT_Slave/../../subsys/spi_hal -IC:/Users/11958/Desktop/Template/app/EtherCAT_Slave/../../arch/arm/arm-v7m/cortex-m3 -IC:/Users/11958/Desktop/Template/app/EtherCAT_Slave/../../Drivers/STM32F10x_StdPeriph_Driver/inc -O0 -g  -mcpu=cortex-m3 -mthumb  --specs=nosys.specs -Wall -fmessage-length=0 -ffunction-sections -fdata-sections -o CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/bsp/stm32f103_ethercat_spi.c.obj -c C:/Users/11958/Desktop/Template/Board/stm32f103_ethercat/bsp/stm32f103_ethercat_spi.c",
+  "file": "C:/Users/11958/Desktop/Template/Board/stm32f103_ethercat/bsp/stm32f103_ethercat_spi.c",
+  "output": "CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/bsp/stm32f103_ethercat_spi.c.obj"
+},
+{
+  "directory": "C:/Users/11958/Desktop/Template/app/EtherCAT_Slave",
+  "command": "C:/Users/11958/Desktop/Template/tools/arm/tool-chain/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-gcc.exe -DHSE_VALUE=12000000 -DSTM32F10X_HD -IC:/Users/11958/Desktop/Template/app/EtherCAT_Slave/../../subsys/spi_hal -IC:/Users/11958/Desktop/Template/app/EtherCAT_Slave/../../arch/arm/arm-v7m/cortex-m3 -IC:/Users/11958/Desktop/Template/app/EtherCAT_Slave/../../Drivers/STM32F10x_StdPeriph_Driver/inc -O0 -g  -mcpu=cortex-m3 -mthumb  --specs=nosys.specs -Wall -fmessage-length=0 -ffunction-sections -fdata-sections -o CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/bsp/stm32f103_spi2.c.obj -c C:/Users/11958/Desktop/Template/Board/stm32f103_ethercat/bsp/stm32f103_spi2.c",
+  "file": "C:/Users/11958/Desktop/Template/Board/stm32f103_ethercat/bsp/stm32f103_spi2.c",
+  "output": "CMakeFiles/ethercat_slave.elf.dir/C_/Users/11958/Desktop/Template/Board/stm32f103_ethercat/bsp/stm32f103_spi2.c.obj"
+},
+{
+  "directory": "C:/Users/11958/Desktop/Template/app/EtherCAT_Slave",
+  "command": "C:/Users/11958/Desktop/Template/tools/arm/tool-chain/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-gcc.exe -DHSE_VALUE=12000000 -DSTM32F10X_HD -IC:/Users/11958/Desktop/Template/app/EtherCAT_Slave/../../subsys/spi_hal -IC:/Users/11958/Desktop/Template/app/EtherCAT_Slave/../../arch/arm/arm-v7m/cortex-m3 -IC:/Users/11958/Desktop/Template/app/EtherCAT_Slave/../../Drivers/STM32F10x_StdPeriph_Driver/inc -O0 -g  -mcpu=cortex-m3 -mthumb  --specs=nosys.specs -Wall -fmessage-length=0 -ffunction-sections -fdata-sections -o CMakeFiles/ethercat_slave.elf.dir/main.c.obj -c C:/Users/11958/Desktop/Template/app/EtherCAT_Slave/main.c",
+  "file": "C:/Users/11958/Desktop/Template/app/EtherCAT_Slave/main.c",
+  "output": "CMakeFiles/ethercat_slave.elf.dir/main.c.obj"
+}
+]
