@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../../Drivers/HPM/HPM6700/HPM6750/hpm_csr_regs.h
+
+C:/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.S
+hpm_csr_regs.h
+C:/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/hpm_csr_regs.h
+../vectors.h
+C:/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/vectors.h
+
+C:/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/vectors.h
+

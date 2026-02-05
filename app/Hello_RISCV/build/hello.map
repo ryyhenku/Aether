@@ -1,0 +1,1314 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-assert.o)
+                              CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj (__assert_func)
+c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fiprintf.o)
+                              c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-assert.o) (fiprintf)
+c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-impure.o)
+                              c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-assert.o) (_impure_ptr)
+c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-vfiprintf.o)
+                              c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fiprintf.o) (_vfiprintf_r)
+c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-wsetup.o)
+                              c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-vfiprintf.o) (__swsetup_r)
+c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-abort.o)
+                              c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-assert.o) (abort)
+c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fflush.o)
+                              c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-vfiprintf.o) (_fflush_r)
+c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-findfp.o)
+                              c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-vfiprintf.o) (__sinit)
+c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fputwc.o)
+                              c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-vfiprintf.o) (_fputwc_r)
+c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-freer.o)
+                              c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-wsetup.o) (_free_r)
+c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fvwrite.o)
+                              c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-vfiprintf.o) (__sfvwrite_r)
+c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fwalk.o)
+                              c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-findfp.o) (_fwalk)
+c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-localeconv.o)
+                              c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-vfiprintf.o) (_localeconv_r)
+c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-locale.o)
+                              c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fputwc.o) (__locale_mb_cur_max)
+c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-makebuf.o)
+                              c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-wsetup.o) (__smakebuf_r)
+c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-mallocr.o)
+                              c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-findfp.o) (_malloc_r)
+c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-mbtowc_r.o)
+                              c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-locale.o) (__ascii_mbtowc)
+c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-memchr.o)
+                              c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-vfiprintf.o) (memchr)
+c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-memcpy.o)
+                              c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fvwrite.o) (memcpy)
+c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-memmove-stub.o)
+                              c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fvwrite.o) (memmove)
+c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-memset.o)
+                              c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-findfp.o) (memset)
+c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-mlock.o)
+                              c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-freer.o) (__malloc_lock)
+c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-reallocr.o)
+                              c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fvwrite.o) (_realloc_r)
+c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-sbrkr.o)
+                              c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-freer.o) (_sbrk_r)
+c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-signal.o)
+                              c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-abort.o) (raise)
+c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-signalr.o)
+                              c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-signal.o) (_kill_r)
+c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-stdio.o)
+                              c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-findfp.o) (__sread)
+c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-strcmp.o)
+                              c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-locale.o) (strcmp)
+c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-strlen.o)
+                              c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-vfiprintf.o) (strlen)
+c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-strncpy.o)
+                              c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-vfiprintf.o) (strncpy)
+c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-wbuf.o)
+                              c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fputwc.o) (__swbuf_r)
+c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-wcrtomb.o)
+                              c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fputwc.o) (_wcrtomb_r)
+c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-wctomb_r.o)
+                              c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-locale.o) (__ascii_wctomb)
+c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-writer.o)
+                              c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-stdio.o) (_write_r)
+c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-closer.o)
+                              c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-stdio.o) (_close_r)
+c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-ctype_.o)
+                              c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-locale.o) (_ctype_)
+c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fclose.o)
+                              c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-findfp.o) (_fclose_r)
+c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fstatr.o)
+                              c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-makebuf.o) (_fstat_r)
+c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-isattyr.o)
+                              c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-makebuf.o) (_isatty_r)
+c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-lseekr.o)
+                              c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-stdio.o) (_lseek_r)
+c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-readr.o)
+                              c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-stdio.o) (_read_r)
+c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-reent.o)
+                              c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-sbrkr.o) (errno)
+c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_close.o)
+                              c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-closer.o) (_close)
+c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_exit.o)
+                              c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-abort.o) (_exit)
+c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_fstat.o)
+                              c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fstatr.o) (_fstat)
+c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_getpid.o)
+                              c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-signalr.o) (_getpid)
+c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_isatty.o)
+                              c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-isattyr.o) (_isatty)
+c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_kill.o)
+                              c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-signalr.o) (_kill)
+c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_lseek.o)
+                              c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-lseekr.o) (_lseek)
+c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_read.o)
+                              c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-readr.o) (_read)
+c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_sbrk.o)
+                              c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-sbrkr.o) (_sbrk)
+c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_write.o)
+                              c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-writer.o) (_write)
+c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_conv_stat.o)
+                              c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_fstat.o) (_conv_stat)
+c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-errno.o)
+                              c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_close.o) (__errno)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.S.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.S.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.S.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj
+ .text.l1c_op   0x0000000000000000       0x6c CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj
+ .text.l1c_dc_disable
+                0x0000000000000000       0x2e CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj
+ .text.l1c_ic_disable
+                0x0000000000000000       0x2e CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj
+ .text.l1c_fence_i
+                0x0000000000000000        0xe CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj
+ .text.l1c_dc_writeback_all
+                0x0000000000000000       0x1e CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj
+ .text.l1c_dc_flush_all
+                0x0000000000000000       0x1e CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj
+ .rodata        0x0000000000000000       0x8b CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj
+ .text.l1c_dc_fill_lock
+                0x0000000000000000       0x88 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj
+ .text.l1c_dc_unlock
+                0x0000000000000000       0x88 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj
+ .text.l1c_dc_invalidate
+                0x0000000000000000       0x88 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj
+ .text.l1c_dc_writeback
+                0x0000000000000000       0x88 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj
+ .text.l1c_dc_flush
+                0x0000000000000000       0x88 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj
+ .text.l1c_ic_invalidate
+                0x0000000000000000       0x88 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj
+ .text.l1c_ic_fill_lock
+                0x0000000000000000       0x88 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj
+ .text.l1c_ic_unlock
+                0x0000000000000000       0x88 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj
+ .text.l1c_dc_disable_writearound
+                0x0000000000000000       0x14 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj
+ .rodata.__func__.7
+                0x0000000000000000       0x11 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj
+ .rodata.__func__.6
+                0x0000000000000000        0xe CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj
+ .rodata.__func__.5
+                0x0000000000000000       0x12 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj
+ .rodata.__func__.4
+                0x0000000000000000       0x11 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj
+ .rodata.__func__.3
+                0x0000000000000000        0xd CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj
+ .rodata.__func__.2
+                0x0000000000000000       0x12 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj
+ .rodata.__func__.1
+                0x0000000000000000       0x11 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj
+ .rodata.__func__.0
+                0x0000000000000000        0xe CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/reset.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/reset.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/reset.c.obj
+ .text.main     0x0000000000000000        0x8 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/reset.c.obj
+ .text.__cxa_atexit
+                0x0000000000000000       0x1a CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/reset.c.obj
+ .sdata.__dso_handle
+                0x0000000000000000        0x4 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/reset.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/initfini.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/initfini.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/initfini.c.obj
+ .text.__libc_fini_array
+                0x0000000000000000       0x5e CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/initfini.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/system.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/system.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/system.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/trap.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/trap.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/trap.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/hello.elf.dir/main.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/hello.elf.dir/main.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/hello.elf.dir/main.c.obj
+ .text          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-assert.o)
+ .data          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-assert.o)
+ .bss           0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-assert.o)
+ .rodata.__assert_func.str1.4
+                0x0000000000000000       0x43 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-assert.o)
+ .text.__assert_func
+                0x0000000000000000       0x4e c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-assert.o)
+ .text.__assert
+                0x0000000000000000       0x10 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-assert.o)
+ .comment       0x0000000000000000       0x11 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-assert.o)
+ .riscv.attributes
+                0x0000000000000000       0x35 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-assert.o)
+ .text          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fiprintf.o)
+ .data          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fiprintf.o)
+ .bss           0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fiprintf.o)
+ .text._fiprintf_r
+                0x0000000000000000       0x24 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fiprintf.o)
+ .text.fiprintf
+                0x0000000000000000       0x34 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fiprintf.o)
+ .comment       0x0000000000000000       0x11 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fiprintf.o)
+ .riscv.attributes
+                0x0000000000000000       0x35 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fiprintf.o)
+ .text          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-impure.o)
+ .data.impure_data
+                0x0000000000000000      0x428 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-impure.o)
+ .sdata._impure_ptr
+                0x0000000000000000        0x4 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-impure.o)
+ .srodata._global_impure_ptr
+                0x0000000000000000        0x4 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-impure.o)
+ .comment       0x0000000000000000       0x11 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-impure.o)
+ .riscv.attributes
+                0x0000000000000000       0x35 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-vfiprintf.o)
+ .data          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-vfiprintf.o)
+ .bss           0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-vfiprintf.o)
+ .text.__sprint_r.part.0
+                0x0000000000000000       0xa0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-vfiprintf.o)
+ .text.__sprint_r
+                0x0000000000000000       0x14 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-vfiprintf.o)
+ .rodata._vfiprintf_r.str1.4
+                0x0000000000000000       0x2f c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-vfiprintf.o)
+ .text._vfiprintf_r
+                0x0000000000000000      0xdac c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-vfiprintf.o)
+ .rodata._vfiprintf_r
+                0x0000000000000000      0x16c c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-vfiprintf.o)
+ .text.vfiprintf
+                0x0000000000000000       0x18 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-vfiprintf.o)
+ .text.__sbprintf
+                0x0000000000000000       0x9c c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-vfiprintf.o)
+ .rodata.blanks.1
+                0x0000000000000000       0x10 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-vfiprintf.o)
+ .rodata.zeroes.0
+                0x0000000000000000       0x10 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-vfiprintf.o)
+ .comment       0x0000000000000000       0x11 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-vfiprintf.o)
+ .riscv.attributes
+                0x0000000000000000       0x35 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-vfiprintf.o)
+ .text          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-wsetup.o)
+ .data          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-wsetup.o)
+ .bss           0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-wsetup.o)
+ .text.__swsetup_r
+                0x0000000000000000      0x108 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-wsetup.o)
+ .comment       0x0000000000000000       0x11 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-wsetup.o)
+ .riscv.attributes
+                0x0000000000000000       0x35 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-wsetup.o)
+ .text          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-abort.o)
+ .data          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-abort.o)
+ .bss           0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-abort.o)
+ .text.abort    0x0000000000000000       0x18 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-abort.o)
+ .comment       0x0000000000000000       0x11 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-abort.o)
+ .riscv.attributes
+                0x0000000000000000       0x35 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-abort.o)
+ .text          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fflush.o)
+ .data          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fflush.o)
+ .bss           0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fflush.o)
+ .text.__sflush_r
+                0x0000000000000000      0x19a c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fflush.o)
+ .text._fflush_r
+                0x0000000000000000       0x40 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fflush.o)
+ .text.fflush   0x0000000000000000       0x64 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fflush.o)
+ .comment       0x0000000000000000       0x11 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fflush.o)
+ .riscv.attributes
+                0x0000000000000000       0x35 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fflush.o)
+ .text          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-findfp.o)
+ .data          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-findfp.o)
+ .bss           0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-findfp.o)
+ .text.__fp_lock
+                0x0000000000000000        0x4 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-findfp.o)
+ .text._cleanup_r
+                0x0000000000000000       0x10 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-findfp.o)
+ .text.__fp_unlock
+                0x0000000000000000        0x4 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-findfp.o)
+ .text.__sinit.part.0
+                0x0000000000000000      0x140 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-findfp.o)
+ .text.__sfmoreglue
+                0x0000000000000000       0x50 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-findfp.o)
+ .text.__sfp    0x0000000000000000       0xf0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-findfp.o)
+ .text._cleanup
+                0x0000000000000000       0x18 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-findfp.o)
+ .text.__sinit  0x0000000000000000        0xe c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-findfp.o)
+ .text.__sfp_lock_acquire
+                0x0000000000000000        0x2 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-findfp.o)
+ .text.__sfp_lock_release
+                0x0000000000000000        0x2 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-findfp.o)
+ .text.__sinit_lock_acquire
+                0x0000000000000000        0x2 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-findfp.o)
+ .text.__sinit_lock_release
+                0x0000000000000000        0x2 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-findfp.o)
+ .text.__fp_lock_all
+                0x0000000000000000       0x18 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-findfp.o)
+ .text.__fp_unlock_all
+                0x0000000000000000       0x18 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-findfp.o)
+ .comment       0x0000000000000000       0x11 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-findfp.o)
+ .riscv.attributes
+                0x0000000000000000       0x35 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-findfp.o)
+ .text          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fputwc.o)
+ .data          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fputwc.o)
+ .bss           0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fputwc.o)
+ .text.__fputwc
+                0x0000000000000000       0xd0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fputwc.o)
+ .text._fputwc_r
+                0x0000000000000000       0x24 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fputwc.o)
+ .text.fputwc   0x0000000000000000       0x58 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fputwc.o)
+ .comment       0x0000000000000000       0x11 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fputwc.o)
+ .riscv.attributes
+                0x0000000000000000       0x35 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fputwc.o)
+ .text          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-freer.o)
+ .data          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-freer.o)
+ .bss           0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-freer.o)
+ .text._malloc_trim_r
+                0x0000000000000000       0xf0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-freer.o)
+ .text._free_r  0x0000000000000000      0x256 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-freer.o)
+ .comment       0x0000000000000000       0x11 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-freer.o)
+ .riscv.attributes
+                0x0000000000000000       0x35 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-freer.o)
+ .text          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fvwrite.o)
+ .data          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fvwrite.o)
+ .bss           0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fvwrite.o)
+ .text.__sfvwrite_r
+                0x0000000000000000      0x362 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fvwrite.o)
+ .comment       0x0000000000000000       0x11 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fvwrite.o)
+ .riscv.attributes
+                0x0000000000000000       0x35 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fvwrite.o)
+ .text          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fwalk.o)
+ .data          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fwalk.o)
+ .bss           0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fwalk.o)
+ .text._fwalk   0x0000000000000000       0x6c c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fwalk.o)
+ .text._fwalk_reent
+                0x0000000000000000       0x74 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fwalk.o)
+ .comment       0x0000000000000000       0x11 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fwalk.o)
+ .riscv.attributes
+                0x0000000000000000       0x35 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fwalk.o)
+ .text          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-localeconv.o)
+ .data          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-localeconv.o)
+ .bss           0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-localeconv.o)
+ .text.__localeconv_l
+                0x0000000000000000        0x6 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-localeconv.o)
+ .text._localeconv_r
+                0x0000000000000000        0xa c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-localeconv.o)
+ .text.localeconv
+                0x0000000000000000        0xa c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-localeconv.o)
+ .comment       0x0000000000000000       0x11 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-localeconv.o)
+ .riscv.attributes
+                0x0000000000000000       0x35 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-localeconv.o)
+ .text          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-locale.o)
+ .data          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-locale.o)
+ .bss           0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-locale.o)
+ .rodata._setlocale_r.str1.4
+                0x0000000000000000        0xd c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-locale.o)
+ .text._setlocale_r
+                0x0000000000000000       0x60 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-locale.o)
+ .text.__locale_mb_cur_max
+                0x0000000000000000        0xa c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-locale.o)
+ .text.setlocale
+                0x0000000000000000       0x60 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-locale.o)
+ .rodata.str1.4
+                0x0000000000000000        0x2 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-locale.o)
+ .data.__global_locale
+                0x0000000000000000      0x16c c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-locale.o)
+ .sbss._PathLocale
+                0x0000000000000000        0x4 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-locale.o)
+ .comment       0x0000000000000000       0x11 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-locale.o)
+ .riscv.attributes
+                0x0000000000000000       0x35 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-locale.o)
+ .text          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-makebuf.o)
+ .data          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-makebuf.o)
+ .bss           0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-makebuf.o)
+ .text.__smakebuf_r
+                0x0000000000000000      0x120 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-makebuf.o)
+ .text.__swhatbuf_r
+                0x0000000000000000       0x8e c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-makebuf.o)
+ .comment       0x0000000000000000       0x11 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-makebuf.o)
+ .riscv.attributes
+                0x0000000000000000       0x35 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-makebuf.o)
+ .text          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-mallocr.o)
+ .data          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-mallocr.o)
+ .bss           0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-mallocr.o)
+ .text._malloc_r
+                0x0000000000000000      0x616 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-mallocr.o)
+ .bss.__malloc_current_mallinfo
+                0x0000000000000000       0x28 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-mallocr.o)
+ .data.__malloc_av_
+                0x0000000000000000      0x408 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-mallocr.o)
+ .sbss.__malloc_max_sbrked_mem
+                0x0000000000000000        0x4 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-mallocr.o)
+ .sbss.__malloc_max_total_mem
+                0x0000000000000000        0x4 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-mallocr.o)
+ .sbss.__malloc_top_pad
+                0x0000000000000000        0x4 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-mallocr.o)
+ .sdata.__malloc_sbrk_base
+                0x0000000000000000        0x4 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-mallocr.o)
+ .sdata.__malloc_trim_threshold
+                0x0000000000000000        0x4 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-mallocr.o)
+ .comment       0x0000000000000000       0x11 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-mallocr.o)
+ .riscv.attributes
+                0x0000000000000000       0x35 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-mallocr.o)
+ .text          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-mbtowc_r.o)
+ .data          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-mbtowc_r.o)
+ .bss           0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-mbtowc_r.o)
+ .text._mbtowc_r
+                0x0000000000000000        0xa c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-mbtowc_r.o)
+ .text.__ascii_mbtowc
+                0x0000000000000000       0x40 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-mbtowc_r.o)
+ .comment       0x0000000000000000       0x11 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-mbtowc_r.o)
+ .riscv.attributes
+                0x0000000000000000       0x35 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-mbtowc_r.o)
+ .text          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-memchr.o)
+ .data          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-memchr.o)
+ .bss           0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-memchr.o)
+ .text.memchr   0x0000000000000000       0x92 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-memchr.o)
+ .comment       0x0000000000000000       0x11 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-memchr.o)
+ .riscv.attributes
+                0x0000000000000000       0x35 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-memchr.o)
+ .text          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-memcpy.o)
+ .data          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-memcpy.o)
+ .bss           0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-memcpy.o)
+ .text.memcpy   0x0000000000000000       0xe8 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-memcpy.o)
+ .comment       0x0000000000000000       0x11 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-memcpy.o)
+ .riscv.attributes
+                0x0000000000000000       0x35 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-memcpy.o)
+ .text          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-memmove-stub.o)
+ .data          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-memmove-stub.o)
+ .bss           0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-memmove-stub.o)
+ .text.memmove  0x0000000000000000       0xd0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-memmove-stub.o)
+ .comment       0x0000000000000000       0x11 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-memmove-stub.o)
+ .riscv.attributes
+                0x0000000000000000       0x35 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-memmove-stub.o)
+ .text          0x0000000000000000       0xa8 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-memset.o)
+ .riscv.attributes
+                0x0000000000000000       0x33 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-mlock.o)
+ .data          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-mlock.o)
+ .bss           0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-mlock.o)
+ .text.__malloc_lock
+                0x0000000000000000        0x2 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-mlock.o)
+ .text.__malloc_unlock
+                0x0000000000000000        0x2 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-mlock.o)
+ .comment       0x0000000000000000       0x11 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-mlock.o)
+ .riscv.attributes
+                0x0000000000000000       0x35 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-mlock.o)
+ .text          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-reallocr.o)
+ .data          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-reallocr.o)
+ .bss           0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-reallocr.o)
+ .text._realloc_r
+                0x0000000000000000      0x3f6 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-reallocr.o)
+ .comment       0x0000000000000000       0x11 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-reallocr.o)
+ .riscv.attributes
+                0x0000000000000000       0x35 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-reallocr.o)
+ .text          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-sbrkr.o)
+ .data          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-sbrkr.o)
+ .bss           0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-sbrkr.o)
+ .text._sbrk_r  0x0000000000000000       0x3e c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-sbrkr.o)
+ .comment       0x0000000000000000       0x11 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-sbrkr.o)
+ .riscv.attributes
+                0x0000000000000000       0x35 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-sbrkr.o)
+ .text          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-signal.o)
+ .data          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-signal.o)
+ .bss           0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-signal.o)
+ .text._init_signal_r
+                0x0000000000000000       0x40 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-signal.o)
+ .text._signal_r
+                0x0000000000000000       0x68 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-signal.o)
+ .text._raise_r
+                0x0000000000000000       0x86 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-signal.o)
+ .text.__sigtramp_r
+                0x0000000000000000       0x8c c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-signal.o)
+ .text.raise    0x0000000000000000       0x8a c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-signal.o)
+ .text.signal   0x0000000000000000       0x76 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-signal.o)
+ .text._init_signal
+                0x0000000000000000       0x46 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-signal.o)
+ .text.__sigtramp
+                0x0000000000000000       0x90 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-signal.o)
+ .comment       0x0000000000000000       0x11 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-signal.o)
+ .riscv.attributes
+                0x0000000000000000       0x35 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-signal.o)
+ .text          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-signalr.o)
+ .data          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-signalr.o)
+ .bss           0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-signalr.o)
+ .text._kill_r  0x0000000000000000       0x42 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-signalr.o)
+ .text._getpid_r
+                0x0000000000000000        0x8 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-signalr.o)
+ .comment       0x0000000000000000       0x11 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-signalr.o)
+ .riscv.attributes
+                0x0000000000000000       0x35 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-signalr.o)
+ .text          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-stdio.o)
+ .data          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-stdio.o)
+ .bss           0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-stdio.o)
+ .text.__sread  0x0000000000000000       0x3c c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-stdio.o)
+ .text.__seofread
+                0x0000000000000000        0x4 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-stdio.o)
+ .text.__swrite
+                0x0000000000000000       0x5c c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-stdio.o)
+ .text.__sseek  0x0000000000000000       0x46 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-stdio.o)
+ .text.__sclose
+                0x0000000000000000        0xc c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-stdio.o)
+ .comment       0x0000000000000000       0x11 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-stdio.o)
+ .riscv.attributes
+                0x0000000000000000       0x35 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-stdio.o)
+ .text          0x0000000000000000      0x11e c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-strcmp.o)
+ .data          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-strcmp.o)
+ .bss           0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-strcmp.o)
+ .riscv.attributes
+                0x0000000000000000       0x33 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-strcmp.o)
+ .text          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-strlen.o)
+ .data          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-strlen.o)
+ .bss           0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-strlen.o)
+ .text.strlen   0x0000000000000000       0x64 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-strlen.o)
+ .comment       0x0000000000000000       0x11 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-strlen.o)
+ .riscv.attributes
+                0x0000000000000000       0x35 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-strlen.o)
+ .text          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-strncpy.o)
+ .data          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-strncpy.o)
+ .bss           0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-strncpy.o)
+ .text.strncpy  0x0000000000000000       0x7a c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-strncpy.o)
+ .comment       0x0000000000000000       0x11 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-strncpy.o)
+ .riscv.attributes
+                0x0000000000000000       0x35 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-strncpy.o)
+ .text          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-wbuf.o)
+ .data          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-wbuf.o)
+ .bss           0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-wbuf.o)
+ .text.__swbuf_r
+                0x0000000000000000      0x108 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-wbuf.o)
+ .text.__swbuf  0x0000000000000000       0x16 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-wbuf.o)
+ .comment       0x0000000000000000       0x11 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-wbuf.o)
+ .riscv.attributes
+                0x0000000000000000       0x35 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-wbuf.o)
+ .text          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-wcrtomb.o)
+ .data          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-wcrtomb.o)
+ .bss           0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-wcrtomb.o)
+ .text._wcrtomb_r
+                0x0000000000000000       0x48 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-wcrtomb.o)
+ .text.wcrtomb  0x0000000000000000       0x5a c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-wcrtomb.o)
+ .comment       0x0000000000000000       0x11 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-wcrtomb.o)
+ .riscv.attributes
+                0x0000000000000000       0x35 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-wcrtomb.o)
+ .text          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-wctomb_r.o)
+ .data          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-wctomb_r.o)
+ .bss           0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-wctomb_r.o)
+ .text._wctomb_r
+                0x0000000000000000        0xa c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-wctomb_r.o)
+ .text.__ascii_wctomb
+                0x0000000000000000       0x20 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-wctomb_r.o)
+ .comment       0x0000000000000000       0x11 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-wctomb_r.o)
+ .riscv.attributes
+                0x0000000000000000       0x35 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-wctomb_r.o)
+ .text          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-writer.o)
+ .data          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-writer.o)
+ .bss           0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-writer.o)
+ .text._write_r
+                0x0000000000000000       0x44 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-writer.o)
+ .comment       0x0000000000000000       0x11 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-writer.o)
+ .riscv.attributes
+                0x0000000000000000       0x35 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-writer.o)
+ .text          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-closer.o)
+ .data          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-closer.o)
+ .bss           0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-closer.o)
+ .text._close_r
+                0x0000000000000000       0x3e c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-closer.o)
+ .comment       0x0000000000000000       0x11 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-closer.o)
+ .riscv.attributes
+                0x0000000000000000       0x35 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-closer.o)
+ .text          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-ctype_.o)
+ .data          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-ctype_.o)
+ .bss           0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-ctype_.o)
+ .rodata._ctype_
+                0x0000000000000000      0x101 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-ctype_.o)
+ .comment       0x0000000000000000       0x11 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-ctype_.o)
+ .riscv.attributes
+                0x0000000000000000       0x35 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-ctype_.o)
+ .text          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fclose.o)
+ .data          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fclose.o)
+ .bss           0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fclose.o)
+ .text._fclose_r
+                0x0000000000000000       0xca c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fclose.o)
+ .text.fclose   0x0000000000000000       0x12 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fclose.o)
+ .comment       0x0000000000000000       0x11 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fclose.o)
+ .riscv.attributes
+                0x0000000000000000       0x35 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fclose.o)
+ .text          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fstatr.o)
+ .data          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fstatr.o)
+ .bss           0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fstatr.o)
+ .text._fstat_r
+                0x0000000000000000       0x42 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fstatr.o)
+ .comment       0x0000000000000000       0x11 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fstatr.o)
+ .riscv.attributes
+                0x0000000000000000       0x35 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-fstatr.o)
+ .text          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-isattyr.o)
+ .data          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-isattyr.o)
+ .bss           0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-isattyr.o)
+ .text._isatty_r
+                0x0000000000000000       0x3e c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-isattyr.o)
+ .comment       0x0000000000000000       0x11 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-isattyr.o)
+ .riscv.attributes
+                0x0000000000000000       0x35 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-isattyr.o)
+ .text          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-lseekr.o)
+ .data          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-lseekr.o)
+ .bss           0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-lseekr.o)
+ .text._lseek_r
+                0x0000000000000000       0x44 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-lseekr.o)
+ .comment       0x0000000000000000       0x11 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-lseekr.o)
+ .riscv.attributes
+                0x0000000000000000       0x35 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-lseekr.o)
+ .text          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-readr.o)
+ .data          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-readr.o)
+ .bss           0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-readr.o)
+ .text._read_r  0x0000000000000000       0x44 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-readr.o)
+ .comment       0x0000000000000000       0x11 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-readr.o)
+ .riscv.attributes
+                0x0000000000000000       0x35 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-readr.o)
+ .text          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-reent.o)
+ .data          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-reent.o)
+ .bss           0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x0000000000000000       0x76 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x0000000000000000       0xd0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-reent.o)
+ .sbss.errno    0x0000000000000000        0x4 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-reent.o)
+ .comment       0x0000000000000000       0x11 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-reent.o)
+ .riscv.attributes
+                0x0000000000000000       0x35 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-reent.o)
+ .text          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_close.o)
+ .data          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_close.o)
+ .bss           0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_close.o)
+ .text._close   0x0000000000000000       0x30 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_close.o)
+ .comment       0x0000000000000000       0x11 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_close.o)
+ .riscv.attributes
+                0x0000000000000000       0x35 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_close.o)
+ .text          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_exit.o)
+ .data          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_exit.o)
+ .bss           0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_exit.o)
+ .text._exit    0x0000000000000000       0x26 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_exit.o)
+ .comment       0x0000000000000000       0x11 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_exit.o)
+ .riscv.attributes
+                0x0000000000000000       0x35 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_exit.o)
+ .text          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_fstat.o)
+ .data          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_fstat.o)
+ .bss           0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_fstat.o)
+ .text._fstat   0x0000000000000000       0x44 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_fstat.o)
+ .comment       0x0000000000000000       0x11 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_fstat.o)
+ .riscv.attributes
+                0x0000000000000000       0x35 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_fstat.o)
+ .text          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_getpid.o)
+ .data          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_getpid.o)
+ .bss           0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_getpid.o)
+ .text._getpid  0x0000000000000000        0x4 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_getpid.o)
+ .comment       0x0000000000000000       0x11 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_getpid.o)
+ .riscv.attributes
+                0x0000000000000000       0x35 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_getpid.o)
+ .text          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_isatty.o)
+ .data          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_isatty.o)
+ .bss           0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_isatty.o)
+ .text._isatty  0x0000000000000000       0x28 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_isatty.o)
+ .comment       0x0000000000000000       0x11 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_isatty.o)
+ .riscv.attributes
+                0x0000000000000000       0x35 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_isatty.o)
+ .text          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_kill.o)
+ .data          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_kill.o)
+ .bss           0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_kill.o)
+ .text._kill    0x0000000000000000       0x18 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_kill.o)
+ .comment       0x0000000000000000       0x11 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_kill.o)
+ .riscv.attributes
+                0x0000000000000000       0x35 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_kill.o)
+ .text          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_lseek.o)
+ .data          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_lseek.o)
+ .bss           0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_lseek.o)
+ .text._lseek   0x0000000000000000       0x30 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_lseek.o)
+ .comment       0x0000000000000000       0x11 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_lseek.o)
+ .riscv.attributes
+                0x0000000000000000       0x35 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_lseek.o)
+ .text          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_read.o)
+ .data          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_read.o)
+ .bss           0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_read.o)
+ .text._read    0x0000000000000000       0x30 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_read.o)
+ .comment       0x0000000000000000       0x11 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_read.o)
+ .riscv.attributes
+                0x0000000000000000       0x35 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_read.o)
+ .text          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_sbrk.o)
+ .data          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_sbrk.o)
+ .bss           0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_sbrk.o)
+ .text._sbrk    0x0000000000000000       0x58 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_sbrk.o)
+ .sbss.heap_end.0
+                0x0000000000000000        0x4 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_sbrk.o)
+ .comment       0x0000000000000000       0x11 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_sbrk.o)
+ .riscv.attributes
+                0x0000000000000000       0x35 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_sbrk.o)
+ .text          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_write.o)
+ .data          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_write.o)
+ .bss           0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_write.o)
+ .text._write   0x0000000000000000       0x30 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_write.o)
+ .comment       0x0000000000000000       0x11 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_write.o)
+ .riscv.attributes
+                0x0000000000000000       0x35 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_write.o)
+ .text          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_conv_stat.o)
+ .data          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_conv_stat.o)
+ .bss           0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_conv_stat.o)
+ .text._conv_stat
+                0x0000000000000000       0x7c c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_conv_stat.o)
+ .comment       0x0000000000000000       0x11 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_conv_stat.o)
+ .riscv.attributes
+                0x0000000000000000       0x35 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a(sys_conv_stat.o)
+ .text          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-errno.o)
+ .data          0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-errno.o)
+ .bss           0x0000000000000000        0x0 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-errno.o)
+ .text.__errno  0x0000000000000000        0xa c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-errno.o)
+ .comment       0x0000000000000000       0x11 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-errno.o)
+ .riscv.attributes
+                0x0000000000000000       0x35 c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a(lib_a-errno.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+ILM              0x0000000000000000 0x0000000000040000 xw
+DLM              0x0000000000080000 0x0000000000040000 w
+AXI_SRAM         0x0000000001080000 0x0000000000080000 xw
+NONCACHEABLE_RAM 0x0000000001100000 0x0000000000040000 xw
+SHARE_RAM        0x000000000117c000 0x0000000000004000 w
+AHB_SRAM         0x00000000f0300000 0x0000000000008000 w
+APB_SRAM         0x00000000f40f0000 0x0000000000002000 w
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.S.obj
+LOAD CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj
+LOAD CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/reset.c.obj
+LOAD CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/initfini.c.obj
+LOAD CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/system.c.obj
+LOAD CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/trap.c.obj
+LOAD CMakeFiles/hello.elf.dir/main.c.obj
+LOAD c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/rv32imafdc/ilp32\libgcc.a
+START GROUP
+LOAD c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libc.a
+LOAD c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/rv32imafdc/ilp32\libgloss.a
+END GROUP
+LOAD c:/users/11958/desktop/template/tools/riscv/tool-chain/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/rv32imafdc/ilp32\libgcc.a
+                0x0000000000004000                STACK_SIZE = 0x4000
+                0x0000000000004000                HEAP_SIZE = 0x4000
+
+.start          0x0000000000000000       0x60
+                0x0000000000000000                . = ALIGN (0x8)
+ *(.start)
+ .start         0x0000000000000000       0x5e CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.S.obj
+                0x0000000000000000                _start
+                0x000000000000005c                exit
+                0x0000000000000060                . = ALIGN (0x8)
+ *fill*         0x000000000000005e        0x2 
+
+.vectors        0x0000000000000200      0x600
+                0x0000000000000200                . = ALIGN (0x8)
+ *(.isr_vector)
+ .isr_vector    0x0000000000000200        0x8 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.S.obj
+                0x0000000000000200                nmi_handler
+                0x0000000000000204                default_isr_73
+                0x0000000000000204                default_isr_109
+                0x0000000000000204                default_isr_17
+                0x0000000000000204                default_isr_9
+                0x0000000000000204                default_isr_112
+                0x0000000000000204                default_isr_61
+                0x0000000000000204                default_isr_93
+                0x0000000000000204                default_isr_127
+                0x0000000000000204                default_isr_35
+                0x0000000000000204                default_isr_41
+                0x0000000000000204                default_isr_97
+                0x0000000000000204                default_isr_66
+                0x0000000000000204                default_isr_23
+                0x0000000000000204                default_isr_90
+                0x0000000000000204                default_isr_124
+                0x0000000000000204                default_isr_5
+                0x0000000000000204                default_isr_68
+                0x0000000000000204                default_isr_25
+                0x0000000000000204                default_isr_76
+                0x0000000000000204                default_isr_31
+                0x0000000000000204                default_isr_96
+                0x0000000000000204                default_isr_53
+                0x0000000000000204                default_isr_27
+                0x0000000000000204                default_isr_117
+                0x0000000000000204                default_isr_101
+                0x0000000000000204                default_isr_71
+                0x0000000000000204                default_isr_3
+                0x0000000000000204                default_isr_120
+                0x0000000000000204                default_isr_123
+                0x0000000000000204                default_isr_38
+                0x0000000000000204                default_isr_83
+                0x0000000000000204                default_isr_1
+                0x0000000000000204                default_isr_63
+                0x0000000000000204                default_isr_20
+                0x0000000000000204                default_isr_13
+                0x0000000000000204                default_isr_125
+                0x0000000000000204                default_isr_40
+                0x0000000000000204                default_isr_58
+                0x0000000000000204                default_isr_113
+                0x0000000000000204                default_isr_85
+                0x0000000000000204                default_isr_10
+                0x0000000000000204                default_isr_55
+                0x0000000000000204                default_isr_46
+                0x0000000000000204                default_isr_75
+                0x0000000000000204                default_isr_30
+                0x0000000000000204                default_isr_4
+                0x0000000000000204                default_isr_86
+                0x0000000000000204                default_isr_48
+                0x0000000000000204                default_isr_78
+                0x0000000000000204                default_isr_33
+                0x0000000000000204                default_isr_100
+                0x0000000000000204                default_isr_16
+                0x0000000000000204                default_isr_105
+                0x0000000000000204                default_isr_99
+                0x0000000000000204                default_isr_28
+                0x0000000000000204                default_isr_62
+                0x0000000000000204                default_isr_91
+                0x0000000000000204                default_isr_121
+                0x0000000000000204                default_isr_98
+                0x0000000000000204                default_isr_52
+                0x0000000000000204                default_isr_50
+                0x0000000000000204                default_isr_69
+                0x0000000000000204                default_isr_26
+                0x0000000000000204                default_isr_108
+                0x0000000000000204                default_isr_88
+                0x0000000000000204                default_isr_118
+                0x0000000000000204                default_isr_81
+                0x0000000000000204                default_isr_77
+                0x0000000000000204                default_isr_32
+                0x0000000000000204                default_isr_70
+                0x0000000000000204                default_isr_43
+                0x0000000000000204                default_isr_11
+                0x0000000000000204                default_isr_110
+                0x0000000000000204                default_isr_56
+                0x0000000000000204                default_isr_8
+                0x0000000000000204                default_irq_handler
+                0x0000000000000204                default_isr_116
+                0x0000000000000204                default_isr_119
+                0x0000000000000204                default_isr_60
+                0x0000000000000204                default_isr_107
+                0x0000000000000204                default_isr_49
+                0x0000000000000204                default_isr_111
+                0x0000000000000204                default_isr_84
+                0x0000000000000204                default_isr_106
+                0x0000000000000204                default_isr_72
+                0x0000000000000204                default_isr_103
+                0x0000000000000204                default_isr_2
+                0x0000000000000204                default_isr_74
+                0x0000000000000204                default_isr_47
+                0x0000000000000204                default_isr_6
+                0x0000000000000204                default_isr_122
+                0x0000000000000204                default_isr_115
+                0x0000000000000204                default_isr_18
+                0x0000000000000204                default_isr_87
+                0x0000000000000204                default_isr_65
+                0x0000000000000204                default_isr_22
+                0x0000000000000204                default_isr_42
+                0x0000000000000204                default_isr_94
+                0x0000000000000204                default_isr_79
+                0x0000000000000204                default_isr_34
+                0x0000000000000204                default_isr_36
+                0x0000000000000204                default_isr_67
+                0x0000000000000204                default_isr_24
+                0x0000000000000204                default_isr_95
+                0x0000000000000204                default_isr_19
+                0x0000000000000204                default_isr_29
+                0x0000000000000204                default_isr_114
+                0x0000000000000204                default_isr_15
+                0x0000000000000204                default_isr_51
+                0x0000000000000204                default_isr_92
+                0x0000000000000204                default_isr_126
+                0x0000000000000204                default_isr_80
+                0x0000000000000204                default_isr_37
+                0x0000000000000204                default_isr_102
+                0x0000000000000204                default_isr_39
+                0x0000000000000204                default_isr_82
+                0x0000000000000204                default_isr_89
+                0x0000000000000204                default_isr_7
+                0x0000000000000204                default_isr_12
+                0x0000000000000204                default_isr_44
+                0x0000000000000204                default_isr_57
+                0x0000000000000204                default_isr_64
+                0x0000000000000204                default_isr_21
+                0x0000000000000204                default_isr_14
+                0x0000000000000204                default_isr_59
+                0x0000000000000204                default_isr_54
+                0x0000000000000204                default_isr_45
+                0x0000000000000204                default_isr_104
+ .isr_vector    0x0000000000000208      0x288 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/trap.c.obj
+                0x0000000000000208                irq_handler_trap
+ *(.isr_vector.*)
+ *(.vector_table)
+ *fill*         0x0000000000000490      0x170 
+ .vector_table  0x0000000000000600      0x200 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.S.obj
+                0x0000000000000600                __vector_table
+                0x0000000000000800                . = ALIGN (0x8)
+
+.rel            0x0000000000000800        0x0
+ *(.rel*)
+ .rela.start    0x0000000000000800        0x0 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.S.obj
+ .rela.vector_table
+                0x0000000000000800        0x0 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.S.obj
+ .rela.text.c_startup
+                0x0000000000000800        0x0 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.S.obj
+ .rela.text.__libc_init_array
+                0x0000000000000800        0x0 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.S.obj
+ .rela.isr_vector
+                0x0000000000000800        0x0 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.S.obj
+
+.text           0x0000000000000800      0x690
+                0x0000000000000800                . = ALIGN (0x8)
+ *(.text)
+ *(.text*)
+ .text.l1c_dc_enable
+                0x0000000000000800       0x3e CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj
+                0x0000000000000800                l1c_dc_enable
+ .text.l1c_ic_enable
+                0x000000000000083e       0x38 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj
+                0x000000000000083e                l1c_ic_enable
+ .text.l1c_dc_invalidate_all
+                0x0000000000000876       0x1e CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj
+                0x0000000000000876                l1c_dc_invalidate_all
+ .text.l1c_dc_enable_writearound
+                0x0000000000000894       0x14 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj
+                0x0000000000000894                l1c_dc_enable_writearound
+ .text._clean_up
+                0x00000000000008a8       0xf6 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/reset.c.obj
+                0x00000000000008a8                _clean_up
+ .text.c_startup
+                0x000000000000099e      0x28a CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/reset.c.obj
+                0x000000000000099e                c_startup
+ .text.reset_handler
+                0x0000000000000c28       0x16 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/reset.c.obj
+                0x0000000000000c28                reset_handler
+ .text._init    0x0000000000000c3e        0xe CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/reset.c.obj
+                0x0000000000000c3e                _init
+ .text.__libc_init_array
+                0x0000000000000c4c       0xa8 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/initfini.c.obj
+                0x0000000000000c4c                __libc_init_array
+ .text.enable_plic_feature
+                0x0000000000000cf4       0x46 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/system.c.obj
+                0x0000000000000cf4                enable_plic_feature
+ .text.system_init
+                0x0000000000000d3a       0x74 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/system.c.obj
+                0x0000000000000d3a                system_init
+ .text.mchtmr_isr
+                0x0000000000000dae        0xe CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/trap.c.obj
+                0x0000000000000dae                mchtmr_isr
+ .text.swi_isr  0x0000000000000dbc        0xe CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/trap.c.obj
+                0x0000000000000dbc                swi_isr
+ .text.syscall_handler
+                0x0000000000000dca       0x22 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/trap.c.obj
+                0x0000000000000dca                syscall_handler
+ .text.exception_handler
+                0x0000000000000dec       0x3a CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/trap.c.obj
+                0x0000000000000dec                exception_handler
+ .text.main     0x0000000000000e26       0x28 CMakeFiles/hello.elf.dir/main.c.obj
+                0x0000000000000e26                main
+ *(.rodata)
+ *(.rodata*)
+ *fill*         0x0000000000000e4e        0x2 
+ .rodata.exception_handler
+                0x0000000000000e50       0x40 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/trap.c.obj
+ *(.srodata)
+ *(.srodata*)
+ *(.hash)
+ *(.dyn*)
+ *(.gnu*)
+ *(.pl*)
+ *(.init)
+ *(.fini)
+                0x0000000000000e90                . = ALIGN (0x8)
+                0x0000000000000e90                __usbh_class_info_start__ = .
+ *(.usbh_class_info)
+                0x0000000000000e90                __usbh_class_info_end__ = .
+                0x0000000000000e90                . = ALIGN (0x4)
+                0x0000000000000e90                __fsymtab_start = .
+ *(FSymTab)
+                0x0000000000000e90                __fsymtab_end = .
+                0x0000000000000e90                . = ALIGN (0x4)
+                0x0000000000000e90                __vsymtab_start = .
+ *(VSymTab)
+                0x0000000000000e90                __vsymtab_end = .
+                0x0000000000000e90                . = ALIGN (0x4)
+                0x0000000000000e90                . = ALIGN (0x4)
+                0x0000000000000e90                __rt_init_start = .
+ *(SORT_BY_NAME(.rti_fn*))
+                0x0000000000000e90                __rt_init_end = .
+                0x0000000000000e90                . = ALIGN (0x4)
+                0x0000000000000e90                . = ALIGN (0x4)
+                0x0000000000000e90                __rtmsymtab_start = .
+ *(RTMSymTab)
+                0x0000000000000e90                __rtmsymtab_end = .
+                0x0000000000000e90                . = ALIGN (0x8)
+
+.eh_frame       0x0000000000000e90        0x0
+                0x0000000000000e90                __eh_frame_start = .
+ *(.eh_frame)
+                0x0000000000000e90                __eh_frame_end = .
+
+.eh_frame_hdr   0x0000000000000e90        0x0
+ *(.eh_frame_hdr)
+                0x0000000000000000                __eh_frame_hdr_start = (SIZEOF (.eh_frame_hdr) > 0x0)?ADDR (.eh_frame_hdr):0x0
+                0x0000000000000000                __eh_frame_hdr_end = (SIZEOF (.eh_frame_hdr) > 0x0)?.:0x0
+                0x0000000000000e90                . = ALIGN (0x8)
+                [!provide]                        PROVIDE (__etext = .)
+                [!provide]                        PROVIDE (_etext = .)
+                0x0000000000000e90                PROVIDE (etext = .)
+                0x0000000000000e90                __data_load_addr__ = etext
+
+.data           0x0000000001080000        0x0 load address 0x0000000000000e90
+                0x0000000001080000                . = ALIGN (0x8)
+                0x0000000001080000                __data_start__ = .
+                0x0000000001080800                __global_pointer$ = (. + 0x800)
+ *(.data)
+ *(.data*)
+ *(.sdata)
+ *(.sdata*)
+ *(.jcr)
+ *(.dynamic)
+ *(.got*)
+ *(.got)
+ *(.gcc_except_table)
+ *(.gcc_except_table.*)
+                0x0000000001080000                . = ALIGN (0x8)
+                0x0000000001080000                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                0x0000000001080000                PROVIDE (__preinit_array_end = .)
+                0x0000000001080000                . = ALIGN (0x8)
+                0x0000000001080000                PROVIDE (__init_array_start = .)
+ *(SORT_BY_INIT_PRIORITY(.init_array.*))
+ *(.init_array)
+                0x0000000001080000                PROVIDE (__init_array_end = .)
+                0x0000000001080000                . = ALIGN (0x8)
+                0x0000000001080000                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_INIT_PRIORITY(.fini_array.*))
+ *(.fini_array)
+                0x0000000001080000                PROVIDE (__fini_array_end = .)
+                0x0000000001080000                . = ALIGN (0x8)
+ *crtbegin*.o(.ctors)
+ *(EXCLUDE_FILE(*crtend*.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+                0x0000000001080000                . = ALIGN (0x8)
+ *crtbegin*.o(.dtors)
+ *(EXCLUDE_FILE(*crtend*.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+                0x0000000001080000                . = ALIGN (0x8)
+                0x0000000001080000                __data_end__ = .
+                [!provide]                        PROVIDE (__edata = .)
+                [!provide]                        PROVIDE (_edata = .)
+                [!provide]                        PROVIDE (edata = .)
+                0x0000000000000e90                __fast_load_addr__ = (etext + SIZEOF (.data))
+
+.fast           0x0000000000000e90        0x0
+                0x0000000000000e90                . = ALIGN (0x8)
+                0x0000000000000e90                PROVIDE (__ramfunc_start__ = .)
+ *(.fast)
+ *(.fast.*)
+                0x0000000000000e90                . = ALIGN (0x8)
+                0x0000000000000e90                PROVIDE (__ramfunc_end__ = .)
+                0x0000000000000e90                __tdata_load_addr__ = ((etext + SIZEOF (.data)) + SIZEOF (.fast))
+
+.tdata          0x0000000001080000        0x0 load address 0x0000000000000e90
+                0x0000000001080000                . = ALIGN (0x8)
+                0x0000000001080000                PROVIDE (__tdata_start__ = .)
+ *(.tdata)
+ *(.tdata.*)
+ *(.gnu.linkonce.td.*)
+                0x0000000001080000                . = ALIGN (0x8)
+                0x0000000001080000                PROVIDE (__tdata_end__ = .)
+
+.tbss           0x0000000001080000        0x0
+                0x0000000001080000                . = ALIGN (0x8)
+                [!provide]                        PROVIDE (__tbss_start__ = .)
+                0x0000000001080000                __thread_pointer$ = .
+ *(.tbss)
+ *(.tbss.*)
+ *(.gnu.linkonce.tb.*)
+ *(.tcommon)
+                0x0000000001080000                . = ALIGN (0x8)
+                [!provide]                        PROVIDE (__tbss_end__ = .)
+                0x0000000000000e90                __noncacheable_init_load_addr__ = (((etext + SIZEOF (.data)) + SIZEOF (.fast)) + SIZEOF (.tdata))
+
+.noncacheable.init
+                0x0000000001100000        0x0 load address 0x0000000000000e90
+                0x0000000001100000                . = ALIGN (0x8)
+                0x0000000001100000                __noncacheable_init_start__ = .
+ *(.noncacheable.init)
+ *(.noncacheable.init.*)
+                0x0000000001100000                __noncacheable_init_end__ = .
+                0x0000000001100000                . = ALIGN (0x8)
+                0x0000000000000e90                __fast_ram_init_load_addr__ = ((((etext + SIZEOF (.data)) + SIZEOF (.fast)) + SIZEOF (.tdata)) + SIZEOF (.noncacheable.init))
+
+.fast_ram.init  0x0000000000080000        0x0 load address 0x0000000000000e90
+                0x0000000000080000                . = ALIGN (0x8)
+                0x0000000000080000                __fast_ram_init_start__ = .
+ *(.fast_ram.init)
+ *(.fast_ram.init.*)
+                0x0000000000080000                __fast_ram_init_end__ = .
+                0x0000000000080000                . = ALIGN (0x8)
+
+.bss            0x0000000001080000        0x0
+                0x0000000001080000                . = ALIGN (0x8)
+                0x0000000001080000                __bss_start__ = .
+ *(.bss)
+ *(.bss*)
+ *(.sbss*)
+ *(.scommon)
+ *(.scommon*)
+ *(.dynsbss*)
+ *(COMMON)
+                0x0000000001080000                . = ALIGN (0x8)
+                0x0000000001080000                _end = .
+                0x0000000001080000                __bss_end__ = .
+
+.framebuffer    0x0000000001080000        0x0
+                0x0000000001080000                . = ALIGN (0x8)
+ *(.framebuffer)
+ *(.framebuffer.*)
+                0x0000000001080000                . = ALIGN (0x8)
+
+.noncacheable   0x0000000001100000        0x0
+                0x0000000001100000                . = ALIGN (0x8)
+ *(.noncacheable)
+ *(.noncacheable.non_init)
+ *(.noncacheable.non_init.*)
+                0x0000000001100000                __noncacheable_bss_start__ = .
+ *(.noncacheable.bss)
+ *(.noncacheable.bss.*)
+                0x0000000001100000                __noncacheable_bss_end__ = .
+                0x0000000001100000                . = ALIGN (0x8)
+
+.ahb_sram
+ *(.ahb_sram)
+ *(.ahb_sram.*)
+
+.apb_sram
+ *(.backup_sram)
+ *(.backup_sram.*)
+
+.sh_mem
+ *(.sh_mem)
+ *(.sh_mem.*)
+
+.fast_ram       0x0000000000080000        0x0
+                0x0000000000080000                . = ALIGN (0x8)
+ *(.fast_ram)
+ *(.fast_ram.non_init)
+ *(.fast_ram.non_init.*)
+                0x0000000000080000                __fast_ram_bss_start__ = .
+ *(.fast_ram.bss)
+ *(.fast_ram.bss.*)
+                0x0000000000080000                __fast_ram_bss_end__ = .
+                0x0000000000080000                . = ALIGN (0x8)
+
+.heap           0x0000000000080000     0x4000
+                0x0000000000080000                . = ALIGN (0x8)
+                0x0000000000080000                __heap_start__ = .
+                0x0000000000084000                . = (. + HEAP_SIZE)
+ *fill*         0x0000000000080000     0x4000 
+                0x0000000000084000                __heap_end__ = .
+
+.stack          0x0000000000084000     0x4000
+                0x0000000000084000                . = ALIGN (0x10)
+                0x0000000000084000                __stack_base__ = .
+                0x0000000000088000                . = (. + STACK_SIZE)
+ *fill*         0x0000000000084000     0x4000 
+                0x0000000000088000                . = ALIGN (0x10)
+                0x0000000000088000                PROVIDE (_stack = .)
+                [!provide]                        PROVIDE (_stack_safe = .)
+                0x0000000001100000                __noncacheable_start__ = ORIGIN (NONCACHEABLE_RAM)
+                0x0000000001140000                __noncacheable_end__ = (ORIGIN (NONCACHEABLE_RAM) + LENGTH (NONCACHEABLE_RAM))
+                0x000000000117c000                __share_mem_start__ = ORIGIN (SHARE_RAM)
+                0x0000000001180000                __share_mem_end__ = (ORIGIN (SHARE_RAM) + LENGTH (SHARE_RAM))
+                0x0000000000000cf0                __fw_size__ = ((((((((((SIZEOF (.start) + SIZEOF (.vectors)) + SIZEOF (.rel)) + SIZEOF (.text)) + SIZEOF (.data)) + SIZEOF (.fast)) + SIZEOF (.tdata)) + SIZEOF (.noncacheable.init)) + SIZEOF (.fast_ram.init)) + SIZEOF (.eh_frame)) + SIZEOF (.eh_frame_hdr))
+                0x0000000000000e90                __last_addr__ = (__fast_ram_init_load_addr__ + SIZEOF (.fast_ram.init))
+                0x0000000000000001                ASSERT (((__fw_size__ <= LENGTH (ILM)) && (__last_addr__ <= (ORIGIN (ILM) + LENGTH (ILM)))), ******  FAILED! ILM does not have enough space!  ******)
+OUTPUT(build/hello.elf elf32-littleriscv)
+
+.riscv.attributes
+                0x0000000000000000       0x39
+ .riscv.attributes
+                0x0000000000000000       0x2d CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.S.obj
+ .riscv.attributes
+                0x000000000000002d       0x39 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj
+ .riscv.attributes
+                0x0000000000000066       0x39 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/reset.c.obj
+ .riscv.attributes
+                0x000000000000009f       0x35 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/initfini.c.obj
+ .riscv.attributes
+                0x00000000000000d4       0x39 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/system.c.obj
+ .riscv.attributes
+                0x000000000000010d       0x39 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/trap.c.obj
+ .riscv.attributes
+                0x0000000000000146       0x35 CMakeFiles/hello.elf.dir/main.c.obj
+
+.comment        0x0000000000000000       0x10
+ .comment       0x0000000000000000       0x10 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj
+                                         0x11 (size before relaxing)
+ .comment       0x0000000000000010       0x11 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/reset.c.obj
+ .comment       0x0000000000000010       0x11 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/initfini.c.obj
+ .comment       0x0000000000000010       0x11 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/system.c.obj
+ .comment       0x0000000000000010       0x11 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/trap.c.obj
+ .comment       0x0000000000000010       0x11 CMakeFiles/hello.elf.dir/main.c.obj
+
+.debug_line     0x0000000000000000     0x10a0
+ .debug_line    0x0000000000000000       0xe5 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.S.obj
+ .debug_line    0x00000000000000e5      0x527 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj
+ .debug_line    0x000000000000060c      0x514 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/reset.c.obj
+ .debug_line    0x0000000000000b20      0x17d CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/initfini.c.obj
+ .debug_line    0x0000000000000c9d      0x12c CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/system.c.obj
+ .debug_line    0x0000000000000dc9      0x269 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/trap.c.obj
+ .debug_line    0x0000000000001032       0x6e CMakeFiles/hello.elf.dir/main.c.obj
+
+.debug_line_str
+                0x0000000000000000      0x4c2
+ .debug_line_str
+                0x0000000000000000       0xba CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.S.obj
+                                         0xc2 (size before relaxing)
+ .debug_line_str
+                0x00000000000000ba      0x1a3 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj
+                                        0x21f (size before relaxing)
+ .debug_line_str
+                0x000000000000025d      0x11c CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/reset.c.obj
+                                        0x259 (size before relaxing)
+ .debug_line_str
+                0x0000000000000379       0x45 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/initfini.c.obj
+                                        0x1c2 (size before relaxing)
+ .debug_line_str
+                0x00000000000003be       0x67 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/system.c.obj
+                                        0x201 (size before relaxing)
+ .debug_line_str
+                0x0000000000000425       0x36 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/trap.c.obj
+                                        0x1fb (size before relaxing)
+ .debug_line_str
+                0x000000000000045b       0x67 CMakeFiles/hello.elf.dir/main.c.obj
+                                         0xd5 (size before relaxing)
+
+.debug_info     0x0000000000000000     0x1285
+ .debug_info    0x0000000000000000       0x23 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.S.obj
+ .debug_info    0x0000000000000023      0x649 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj
+ .debug_info    0x000000000000066c      0x538 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/reset.c.obj
+ .debug_info    0x0000000000000ba4      0x12d CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/initfini.c.obj
+ .debug_info    0x0000000000000cd1      0x1f2 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/system.c.obj
+ .debug_info    0x0000000000000ec3      0x35c CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/trap.c.obj
+ .debug_info    0x000000000000121f       0x66 CMakeFiles/hello.elf.dir/main.c.obj
+
+.debug_abbrev   0x0000000000000000      0x87f
+ .debug_abbrev  0x0000000000000000       0x12 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.S.obj
+ .debug_abbrev  0x0000000000000012      0x1ef CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj
+ .debug_abbrev  0x0000000000000201      0x256 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/reset.c.obj
+ .debug_abbrev  0x0000000000000457       0xc6 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/initfini.c.obj
+ .debug_abbrev  0x000000000000051d      0x16b CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/system.c.obj
+ .debug_abbrev  0x0000000000000688      0x1ac CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/trap.c.obj
+ .debug_abbrev  0x0000000000000834       0x4b CMakeFiles/hello.elf.dir/main.c.obj
+
+.debug_aranges  0x0000000000000000      0x1d0
+ .debug_aranges
+                0x0000000000000000       0x28 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.S.obj
+ .debug_aranges
+                0x0000000000000028       0xb0 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj
+ .debug_aranges
+                0x00000000000000d8       0x48 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/reset.c.obj
+ .debug_aranges
+                0x0000000000000120       0x28 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/initfini.c.obj
+ .debug_aranges
+                0x0000000000000148       0x28 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/system.c.obj
+ .debug_aranges
+                0x0000000000000170       0x40 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/trap.c.obj
+ .debug_aranges
+                0x00000000000001b0       0x20 CMakeFiles/hello.elf.dir/main.c.obj
+
+.debug_str      0x0000000000000000      0xaa7
+ .debug_str     0x0000000000000000       0x82 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.S.obj
+ .debug_str     0x0000000000000082      0x30b CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj
+                                        0x35d (size before relaxing)
+ .debug_str     0x000000000000038d      0x55f CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/reset.c.obj
+                                        0x6ee (size before relaxing)
+ .debug_str     0x00000000000008ec       0x9c CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/initfini.c.obj
+                                        0x1f3 (size before relaxing)
+ .debug_str     0x0000000000000988       0x71 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/system.c.obj
+                                        0x215 (size before relaxing)
+ .debug_str     0x00000000000009f9       0xae CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/trap.c.obj
+                                        0x247 (size before relaxing)
+ .debug_str     0x0000000000000aa7       0xc4 CMakeFiles/hello.elf.dir/main.c.obj
+
+.debug_rnglists
+                0x0000000000000000      0x1a2
+ .debug_rnglists
+                0x0000000000000000       0x19 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.S.obj
+ .debug_rnglists
+                0x0000000000000019       0xb8 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj
+ .debug_rnglists
+                0x00000000000000d1       0x43 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/reset.c.obj
+ .debug_rnglists
+                0x0000000000000114       0x1f CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/initfini.c.obj
+ .debug_rnglists
+                0x0000000000000133       0x1f CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/system.c.obj
+ .debug_rnglists
+                0x0000000000000152       0x3a CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/trap.c.obj
+ .debug_rnglists
+                0x000000000000018c       0x16 CMakeFiles/hello.elf.dir/main.c.obj
+
+.debug_frame    0x0000000000000000      0x640
+ .debug_frame   0x0000000000000000      0x2e4 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj
+ .debug_frame   0x00000000000002e4       0xe4 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/reset.c.obj
+ .debug_frame   0x00000000000003c8       0x60 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/initfini.c.obj
+ .debug_frame   0x0000000000000428       0x5c CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/system.c.obj
+ .debug_frame   0x0000000000000484      0x188 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/trap.c.obj
+ .debug_frame   0x000000000000060c       0x34 CMakeFiles/hello.elf.dir/main.c.obj

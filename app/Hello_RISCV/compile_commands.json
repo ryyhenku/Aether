@@ -1,0 +1,44 @@
+[
+{
+  "directory": "C:/Users/11958/Desktop/Template/app/Hello_RISCV",
+  "command": "C:/Users/11958/Desktop/Template/tools/riscv/tool-chain/bin/riscv32-unknown-elf-gcc.exe  -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../arch -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../arch/riscv/hpm -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../arch/riscv/l1c -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../Drivers/HPM/HPM6700/HPM6750 -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../Drivers/HPM/HPM6700/ip -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../Drivers/HPM/drivers/inc -O0 -g  -o CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.S.obj -c C:/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.S",
+  "file": "C:/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.S",
+  "output": "CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.S.obj"
+},
+{
+  "directory": "C:/Users/11958/Desktop/Template/app/Hello_RISCV",
+  "command": "C:/Users/11958/Desktop/Template/tools/riscv/tool-chain/bin/riscv32-unknown-elf-gcc.exe  -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../arch -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../arch/riscv/hpm -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../arch/riscv/l1c -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../Drivers/HPM/HPM6700/HPM6750 -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../Drivers/HPM/HPM6700/ip -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../Drivers/HPM/drivers/inc -O0 -g  -march=rv32imafdc -mabi=ilp32 -msmall-data-limit=8  -mno-save-restore -Wall -fno-common -fmessage-length=0 -ffunction-sections -fdata-sections  -o CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj -c C:/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c",
+  "file": "C:/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c",
+  "output": "CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj"
+},
+{
+  "directory": "C:/Users/11958/Desktop/Template/app/Hello_RISCV",
+  "command": "C:/Users/11958/Desktop/Template/tools/riscv/tool-chain/bin/riscv32-unknown-elf-gcc.exe  -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../arch -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../arch/riscv/hpm -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../arch/riscv/l1c -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../Drivers/HPM/HPM6700/HPM6750 -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../Drivers/HPM/HPM6700/ip -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../Drivers/HPM/drivers/inc -O0 -g  -march=rv32imafdc -mabi=ilp32 -msmall-data-limit=8  -mno-save-restore -Wall -fno-common -fmessage-length=0 -ffunction-sections -fdata-sections  -o CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/reset.c.obj -c C:/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/reset.c",
+  "file": "C:/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/reset.c",
+  "output": "CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/reset.c.obj"
+},
+{
+  "directory": "C:/Users/11958/Desktop/Template/app/Hello_RISCV",
+  "command": "C:/Users/11958/Desktop/Template/tools/riscv/tool-chain/bin/riscv32-unknown-elf-gcc.exe  -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../arch -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../arch/riscv/hpm -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../arch/riscv/l1c -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../Drivers/HPM/HPM6700/HPM6750 -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../Drivers/HPM/HPM6700/ip -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../Drivers/HPM/drivers/inc -O0 -g  -march=rv32imafdc -mabi=ilp32 -msmall-data-limit=8  -mno-save-restore -Wall -fno-common -fmessage-length=0 -ffunction-sections -fdata-sections  -o CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/initfini.c.obj -c C:/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/initfini.c",
+  "file": "C:/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/initfini.c",
+  "output": "CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/initfini.c.obj"
+},
+{
+  "directory": "C:/Users/11958/Desktop/Template/app/Hello_RISCV",
+  "command": "C:/Users/11958/Desktop/Template/tools/riscv/tool-chain/bin/riscv32-unknown-elf-gcc.exe  -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../arch -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../arch/riscv/hpm -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../arch/riscv/l1c -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../Drivers/HPM/HPM6700/HPM6750 -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../Drivers/HPM/HPM6700/ip -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../Drivers/HPM/drivers/inc -O0 -g  -march=rv32imafdc -mabi=ilp32 -msmall-data-limit=8  -mno-save-restore -Wall -fno-common -fmessage-length=0 -ffunction-sections -fdata-sections  -o CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/system.c.obj -c C:/Users/11958/Desktop/Template/arch/riscv/hpm/system.c",
+  "file": "C:/Users/11958/Desktop/Template/arch/riscv/hpm/system.c",
+  "output": "CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/system.c.obj"
+},
+{
+  "directory": "C:/Users/11958/Desktop/Template/app/Hello_RISCV",
+  "command": "C:/Users/11958/Desktop/Template/tools/riscv/tool-chain/bin/riscv32-unknown-elf-gcc.exe  -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../arch -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../arch/riscv/hpm -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../arch/riscv/l1c -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../Drivers/HPM/HPM6700/HPM6750 -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../Drivers/HPM/HPM6700/ip -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../Drivers/HPM/drivers/inc -O0 -g  -march=rv32imafdc -mabi=ilp32 -msmall-data-limit=8  -mno-save-restore -Wall -fno-common -fmessage-length=0 -ffunction-sections -fdata-sections  -o CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/trap.c.obj -c C:/Users/11958/Desktop/Template/arch/riscv/hpm/trap.c",
+  "file": "C:/Users/11958/Desktop/Template/arch/riscv/hpm/trap.c",
+  "output": "CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/trap.c.obj"
+},
+{
+  "directory": "C:/Users/11958/Desktop/Template/app/Hello_RISCV",
+  "command": "C:/Users/11958/Desktop/Template/tools/riscv/tool-chain/bin/riscv32-unknown-elf-gcc.exe  -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../arch -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../arch/riscv/hpm -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../arch/riscv/l1c -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../Drivers/HPM/HPM6700/HPM6750 -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../Drivers/HPM/HPM6700/ip -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../Drivers/HPM/drivers/inc -O0 -g  -march=rv32imafdc -mabi=ilp32 -msmall-data-limit=8  -mno-save-restore -Wall -fno-common -fmessage-length=0 -ffunction-sections -fdata-sections  -o CMakeFiles/hello.elf.dir/main.c.obj -c C:/Users/11958/Desktop/Template/app/Hello_RISCV/main.c",
+  "file": "C:/Users/11958/Desktop/Template/app/Hello_RISCV/main.c",
+  "output": "CMakeFiles/hello.elf.dir/main.c.obj"
+}
+]

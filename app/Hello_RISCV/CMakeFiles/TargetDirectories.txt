@@ -1,0 +1,3 @@
+C:/Users/11958/Desktop/Template/app/Hello_RISCV/CMakeFiles/hello.elf.dir
+C:/Users/11958/Desktop/Template/app/Hello_RISCV/CMakeFiles/edit_cache.dir
+C:/Users/11958/Desktop/Template/app/Hello_RISCV/CMakeFiles/rebuild_cache.dir
