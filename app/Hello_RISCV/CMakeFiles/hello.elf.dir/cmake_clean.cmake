@@ -2,6 +2,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/system.c.obj"
   "CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/system.c.obj.d"
   "CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.S.obj"
+  "CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/stdio_weak.c.obj"
+  "CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/stdio_weak.c.obj.d"
   "CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/initfini.c.obj"
   "CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/initfini.c.obj.d"
   "CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/reset.c.obj"

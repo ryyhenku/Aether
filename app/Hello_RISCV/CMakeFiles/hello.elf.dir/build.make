@@ -72,23 +72,37 @@ include CMakeFiles/hello.elf.dir/flags.make
 CMakeFiles/hello.elf.dir/codegen:
 .PHONY : CMakeFiles/hello.elf.dir/codegen
 
+CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/stdio_weak.c.obj: CMakeFiles/hello.elf.dir/flags.make
+CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/stdio_weak.c.obj: C:/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/stdio_weak.c
+CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/stdio_weak.c.obj: CMakeFiles/hello.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:/Users/11958/Desktop/Template/app/Hello_RISCV/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/stdio_weak.c.obj"
+	C:/Users/11958/Desktop/Template/tools/riscv/tool-chain/bin/riscv32-unknown-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/stdio_weak.c.obj -MF CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/stdio_weak.c.obj.d -o CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/stdio_weak.c.obj -c C:/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/stdio_weak.c
+
+CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/stdio_weak.c.i: cmake_force
+	@echo "Preprocessing C source to CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/stdio_weak.c.i"
+	C:/Users/11958/Desktop/Template/tools/riscv/tool-chain/bin/riscv32-unknown-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/stdio_weak.c > CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/stdio_weak.c.i
+
+CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/stdio_weak.c.s: cmake_force
+	@echo "Compiling C source to assembly CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/stdio_weak.c.s"
+	C:/Users/11958/Desktop/Template/tools/riscv/tool-chain/bin/riscv32-unknown-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/stdio_weak.c -o CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/stdio_weak.c.s
+
 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.S.obj: CMakeFiles/hello.elf.dir/flags.make
 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.S.obj: C:/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:/Users/11958/Desktop/Template/app/Hello_RISCV/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building ASM object CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.S.obj"
-	C:/Users/11958/Desktop/Template/tools/riscv/tool-chain/bin/riscv32-unknown-elf-gcc.exe $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.S.obj -c C:/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.S
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:/Users/11958/Desktop/Template/app/Hello_RISCV/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building ASM object CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.S.obj"
+	C:/Users/11958/Desktop/Template/tools/riscv/tool-chain/bin/riscv32-unknown-elf-gcc.exe $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -march=rv32imafdc -mabi=ilp32f -o CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.S.obj -c C:/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.S
 
 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.S.i: cmake_force
 	@echo "Preprocessing ASM source to CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.S.i"
-	C:/Users/11958/Desktop/Template/tools/riscv/tool-chain/bin/riscv32-unknown-elf-gcc.exe $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E C:/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.S > CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.S.i
+	C:/Users/11958/Desktop/Template/tools/riscv/tool-chain/bin/riscv32-unknown-elf-gcc.exe $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -march=rv32imafdc -mabi=ilp32f -E C:/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.S > CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.S.i
 
 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.S.s: cmake_force
 	@echo "Compiling ASM source to assembly CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.S.s"
-	C:/Users/11958/Desktop/Template/tools/riscv/tool-chain/bin/riscv32-unknown-elf-gcc.exe $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S C:/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.S -o CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.S.s
+	C:/Users/11958/Desktop/Template/tools/riscv/tool-chain/bin/riscv32-unknown-elf-gcc.exe $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -march=rv32imafdc -mabi=ilp32f -S C:/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.S -o CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.S.s
 
 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj: CMakeFiles/hello.elf.dir/flags.make
 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj: C:/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c
 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj: CMakeFiles/hello.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:/Users/11958/Desktop/Template/app/Hello_RISCV/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:/Users/11958/Desktop/Template/app/Hello_RISCV/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj"
 	C:/Users/11958/Desktop/Template/tools/riscv/tool-chain/bin/riscv32-unknown-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj -MF CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj.d -o CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj -c C:/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c
 
 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.i: cmake_force
@@ -102,7 +116,7 @@ CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_
 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/reset.c.obj: CMakeFiles/hello.elf.dir/flags.make
 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/reset.c.obj: C:/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/reset.c
 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/reset.c.obj: CMakeFiles/hello.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:/Users/11958/Desktop/Template/app/Hello_RISCV/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/reset.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:/Users/11958/Desktop/Template/app/Hello_RISCV/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/reset.c.obj"
 	C:/Users/11958/Desktop/Template/tools/riscv/tool-chain/bin/riscv32-unknown-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/reset.c.obj -MF CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/reset.c.obj.d -o CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/reset.c.obj -c C:/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/reset.c
 
 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/reset.c.i: cmake_force
@@ -116,7 +130,7 @@ CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchai
 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/initfini.c.obj: CMakeFiles/hello.elf.dir/flags.make
 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/initfini.c.obj: C:/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/initfini.c
 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/initfini.c.obj: CMakeFiles/hello.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:/Users/11958/Desktop/Template/app/Hello_RISCV/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/initfini.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:/Users/11958/Desktop/Template/app/Hello_RISCV/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/initfini.c.obj"
 	C:/Users/11958/Desktop/Template/tools/riscv/tool-chain/bin/riscv32-unknown-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/initfini.c.obj -MF CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/initfini.c.obj.d -o CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/initfini.c.obj -c C:/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/initfini.c
 
 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/initfini.c.i: cmake_force
@@ -130,7 +144,7 @@ CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchai
 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/system.c.obj: CMakeFiles/hello.elf.dir/flags.make
 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/system.c.obj: C:/Users/11958/Desktop/Template/arch/riscv/hpm/system.c
 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/system.c.obj: CMakeFiles/hello.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:/Users/11958/Desktop/Template/app/Hello_RISCV/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/system.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:/Users/11958/Desktop/Template/app/Hello_RISCV/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/system.c.obj"
 	C:/Users/11958/Desktop/Template/tools/riscv/tool-chain/bin/riscv32-unknown-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/system.c.obj -MF CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/system.c.obj.d -o CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/system.c.obj -c C:/Users/11958/Desktop/Template/arch/riscv/hpm/system.c
 
 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/system.c.i: cmake_force
@@ -144,7 +158,7 @@ CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/system.c
 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/trap.c.obj: CMakeFiles/hello.elf.dir/flags.make
 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/trap.c.obj: C:/Users/11958/Desktop/Template/arch/riscv/hpm/trap.c
 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/trap.c.obj: CMakeFiles/hello.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:/Users/11958/Desktop/Template/app/Hello_RISCV/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/trap.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:/Users/11958/Desktop/Template/app/Hello_RISCV/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/trap.c.obj"
 	C:/Users/11958/Desktop/Template/tools/riscv/tool-chain/bin/riscv32-unknown-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/trap.c.obj -MF CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/trap.c.obj.d -o CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/trap.c.obj -c C:/Users/11958/Desktop/Template/arch/riscv/hpm/trap.c
 
 CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/trap.c.i: cmake_force
@@ -158,7 +172,7 @@ CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/trap.c.s
 CMakeFiles/hello.elf.dir/main.c.obj: CMakeFiles/hello.elf.dir/flags.make
 CMakeFiles/hello.elf.dir/main.c.obj: main.c
 CMakeFiles/hello.elf.dir/main.c.obj: CMakeFiles/hello.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:/Users/11958/Desktop/Template/app/Hello_RISCV/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/hello.elf.dir/main.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:/Users/11958/Desktop/Template/app/Hello_RISCV/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/hello.elf.dir/main.c.obj"
 	C:/Users/11958/Desktop/Template/tools/riscv/tool-chain/bin/riscv32-unknown-elf-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/hello.elf.dir/main.c.obj -MF CMakeFiles/hello.elf.dir/main.c.obj.d -o CMakeFiles/hello.elf.dir/main.c.obj -c C:/Users/11958/Desktop/Template/app/Hello_RISCV/main.c
 
 CMakeFiles/hello.elf.dir/main.c.i: cmake_force
@@ -171,6 +185,7 @@ CMakeFiles/hello.elf.dir/main.c.s: cmake_force
 
 # Object files for target hello.elf
 hello_elf_OBJECTS = \
+"CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/stdio_weak.c.obj" \
 "CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.S.obj" \
 "CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj" \
 "CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/reset.c.obj" \
@@ -182,6 +197,7 @@ hello_elf_OBJECTS = \
 # External object files for target hello.elf
 hello_elf_EXTERNAL_OBJECTS =
 
+build/hello.elf: CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/stdio_weak.c.obj
 build/hello.elf: CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.S.obj
 build/hello.elf: CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj
 build/hello.elf: CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/reset.c.obj
@@ -190,8 +206,8 @@ build/hello.elf: CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/r
 build/hello.elf: CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/trap.c.obj
 build/hello.elf: CMakeFiles/hello.elf.dir/main.c.obj
 build/hello.elf: CMakeFiles/hello.elf.dir/build.make
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:/Users/11958/Desktop/Template/app/Hello_RISCV/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking C executable build/hello.elf"
-	C:/Users/11958/Desktop/Template/tools/riscv/tool-chain/bin/riscv32-unknown-elf-gcc.exe -O0 -g  -march=rv32imafdc -mabi=ilp32 -msmall-data-limit=8  -mno-save-restore -Wall -fno-common -fmessage-length=0 -ffunction-sections -fdata-sections  -TC:/Users/11958/Desktop/Template/app/Hello_RISCV/../..//Board/HPM6450/ram.ld -static -nostartfiles -Xlinker --gc-sections -Wl,--orphan-handling=place -Wl,--entry=_start -Wl,--gc-sections -Wl,-Map=C:/Users/11958/Desktop/Template/app/Hello_RISCV/build/hello.map $(hello_elf_OBJECTS) $(hello_elf_EXTERNAL_OBJECTS) -o build/hello.elf
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:/Users/11958/Desktop/Template/app/Hello_RISCV/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking C executable build/hello.elf"
+	C:/Users/11958/Desktop/Template/tools/riscv/tool-chain/bin/riscv32-unknown-elf-gcc.exe -O0 -g  -march=rv32imafdc -mabi=ilp32f --specs=nosys.specs  -msmall-data-limit=8  -mno-save-restore -Wall -fno-common -fmessage-length=0 -ffunction-sections -fdata-sections  -TC:/Users/11958/Desktop/Template/app/Hello_RISCV/../..//board/HPM6450/ram.ld -static -nostartfiles -Xlinker --gc-sections -march=rv32imafdc -mabi=ilp32f -Wl,--orphan-handling=place -Wl,--entry=_start -Wl,--gc-sections -Wl,-Map=C:/Users/11958/Desktop/Template/app/Hello_RISCV/build/hello.map $(hello_elf_OBJECTS) $(hello_elf_EXTERNAL_OBJECTS) -o build/hello.elf
 	@echo "Generating HEX file: C:/Users/11958/Desktop/Template/app/Hello_RISCV/build/hello.hex"
 	C:/Users/11958/Desktop/Template/tools/riscv/tool-chain/bin/riscv32-unknown-elf-objcopy.exe -O ihex C:/Users/11958/Desktop/Template/app/Hello_RISCV/build/hello.elf C:/Users/11958/Desktop/Template/app/Hello_RISCV/build/hello.hex
 	@echo "Generating BIN file: C:/Users/11958/Desktop/Template/app/Hello_RISCV/build/hello.bin"

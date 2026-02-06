@@ -5,13 +5,15 @@
 # compile C with C:/Users/11958/Desktop/Template/tools/riscv/tool-chain/bin/riscv32-unknown-elf-gcc.exe
 ASM_DEFINES = 
 
-ASM_INCLUDES = -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../arch -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../arch/riscv/hpm -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../arch/riscv/l1c -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../Drivers/HPM/HPM6700/HPM6750 -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../Drivers/HPM/HPM6700/ip -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../Drivers/HPM/drivers/inc
+ASM_INCLUDES = -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../arch -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../arch/riscv/hpm -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../arch/riscv/l1c -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../drivers/HPM/HPM6700/HPM6750 -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../drivers/HPM/HPM6700/ip -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../drivers/HPM/drivers/inc
 
 ASM_FLAGS = -O0 -g 
 
 C_DEFINES = 
 
-C_INCLUDES = -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../arch -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../arch/riscv/hpm -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../arch/riscv/l1c -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../Drivers/HPM/HPM6700/HPM6750 -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../Drivers/HPM/HPM6700/ip -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../Drivers/HPM/drivers/inc
+C_INCLUDES = -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../arch -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../arch/riscv/hpm -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../arch/riscv/l1c -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../drivers/HPM/HPM6700/HPM6750 -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../drivers/HPM/HPM6700/ip -IC:/Users/11958/Desktop/Template/app/Hello_RISCV/../../drivers/HPM/drivers/inc
 
-C_FLAGS = -O0 -g  -march=rv32imafdc -mabi=ilp32 -msmall-data-limit=8  -mno-save-restore -Wall -fno-common -fmessage-length=0 -ffunction-sections -fdata-sections 
+C_FLAGS = -O0 -g  -march=rv32imafdc -mabi=ilp32f --specs=nosys.specs  -msmall-data-limit=8  -mno-save-restore -Wall -fno-common -fmessage-length=0 -ffunction-sections -fdata-sections 
+
+# Custom flags: CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.S.obj_FLAGS = -march=rv32imafdc -mabi=ilp32f
 

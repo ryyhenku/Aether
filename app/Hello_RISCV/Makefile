@@ -161,6 +161,30 @@ C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.S.obj:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/hello.elf.dir/build.make CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.S.obj
 .PHONY : C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.S.obj
 
+C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/stdio_weak.obj: C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/stdio_weak.c.obj
+.PHONY : C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/stdio_weak.obj
+
+# target to build an object file
+C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/stdio_weak.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/hello.elf.dir/build.make CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/stdio_weak.c.obj
+.PHONY : C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/stdio_weak.c.obj
+
+C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/stdio_weak.i: C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/stdio_weak.c.i
+.PHONY : C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/stdio_weak.i
+
+# target to preprocess a source file
+C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/stdio_weak.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/hello.elf.dir/build.make CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/stdio_weak.c.i
+.PHONY : C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/stdio_weak.c.i
+
+C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/stdio_weak.s: C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/stdio_weak.c.s
+.PHONY : C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/stdio_weak.s
+
+# target to generate assembly for a file
+C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/stdio_weak.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/hello.elf.dir/build.make CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/stdio_weak.c.s
+.PHONY : C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/stdio_weak.c.s
+
 C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/initfini.obj: C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/initfini.c.obj
 .PHONY : C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/initfini.obj
 
@@ -294,6 +318,9 @@ help:
 	@echo "... C_/Users/11958/Desktop/Template/arch/riscv/hpm/system.i"
 	@echo "... C_/Users/11958/Desktop/Template/arch/riscv/hpm/system.s"
 	@echo "... C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.obj"
+	@echo "... C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/stdio_weak.obj"
+	@echo "... C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/stdio_weak.i"
+	@echo "... C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/stdio_weak.s"
 	@echo "... C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/initfini.obj"
 	@echo "... C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/initfini.i"
 	@echo "... C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/initfini.s"

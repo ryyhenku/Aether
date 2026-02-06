@@ -37,10 +37,10 @@ message(STATUS "**** Building project: ${CMAKE_PROJECT_NAME}, Version: ${CMAKE_P
 
 
 # 指定链接文件
-set(LINKER_SCRIPT ${PATH_WORKSPACE_ROOT}/Board/HPM6450/ram.ld)
+set(LINKER_SCRIPT ${PATH_WORKSPACE_ROOT}/board/HPM6450/ram.ld)
 
 # 指定启动文件
-set(STARTUP_ASM ${PATH_WORKSPACE_ROOT}/arch/riscv/start.s)
+set(STARTUP_ASM ${PATH_WORKSPACE_ROOT}/arch/riscv/hpm/toolchains/gcc/start.s)
 
 set(OUTPUT_NAME ${PROJECT_NAME})
 
@@ -67,13 +67,15 @@ message(STATUS "BIN file: ${BIN_FILE_PATH}")
 # 设置启动文件的编译选项
 set_source_files_properties(${STARTUP_ASM} PROPERTIES
     LANGUAGE ASM
+    COMPILE_FLAGS "-march=rv32imafdc -mabi=ilp32f"
 )
 
 #平台相关
 #架构
 set(Src_Arch
+    ${PATH_WORKSPACE_ROOT}/arch/riscv/hpm/toolchains/gcc/stdio_weak.c
     ${PATH_WORKSPACE_ROOT}/arch/riscv/hpm/toolchains/gcc/start.S
-     ${PATH_WORKSPACE_ROOT}/arch/riscv/l1c/hpm_l1c_drv.c
+    ${PATH_WORKSPACE_ROOT}/arch/riscv/l1c/hpm_l1c_drv.c
     ${PATH_WORKSPACE_ROOT}/arch/riscv/hpm/toolchains/reset.c
     ${PATH_WORKSPACE_ROOT}/arch/riscv/hpm/toolchains/initfini.c
     ${PATH_WORKSPACE_ROOT}/arch/riscv/hpm/system.c
@@ -90,9 +92,9 @@ set(Inc_Arch
 # )
 
 set(Inc_Drivers
-    ${PATH_WORKSPACE_ROOT}/Drivers/HPM/HPM6700/HPM6750/
-    ${PATH_WORKSPACE_ROOT}/Drivers/HPM/HPM6700/ip/
-    ${PATH_WORKSPACE_ROOT}/Drivers/HPM/drivers/inc/
+    ${PATH_WORKSPACE_ROOT}/drivers/HPM/HPM6700/HPM6750/
+    ${PATH_WORKSPACE_ROOT}/drivers/HPM/HPM6700/ip/
+    ${PATH_WORKSPACE_ROOT}/drivers/HPM/drivers/inc/
 )
 
 # #三方组件
@@ -140,6 +142,8 @@ target_link_options(${PROJECT_NAME}.elf PRIVATE
     -T${LINKER_SCRIPT}
     -static -nostartfiles
     -Xlinker --gc-sections
+    -march=rv32imafdc    # 必须与编译时一致
+    -mabi=ilp32f         # 或者 ilp32d，必须与编译时一致
     -Wl,--orphan-handling=place
     -Wl,--entry=_start
     -nostartfiles

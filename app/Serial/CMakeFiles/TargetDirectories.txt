@@ -1,0 +1,3 @@
+C:/Users/11958/Desktop/Template/app/Serial/CMakeFiles/Serial.elf.dir
+C:/Users/11958/Desktop/Template/app/Serial/CMakeFiles/edit_cache.dir
+C:/Users/11958/Desktop/Template/app/Serial/CMakeFiles/rebuild_cache.dir

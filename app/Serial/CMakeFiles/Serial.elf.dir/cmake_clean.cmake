@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/Serial.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/system.c.obj"
+  "CMakeFiles/Serial.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/system.c.obj.d"
+  "CMakeFiles/Serial.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/start.S.obj"
+  "CMakeFiles/Serial.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/stdio_weak.c.obj"
+  "CMakeFiles/Serial.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/stdio_weak.c.obj.d"
+  "CMakeFiles/Serial.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/initfini.c.obj"
+  "CMakeFiles/Serial.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/initfini.c.obj.d"
+  "CMakeFiles/Serial.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/reset.c.obj"
+  "CMakeFiles/Serial.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/reset.c.obj.d"
+  "CMakeFiles/Serial.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/trap.c.obj"
+  "CMakeFiles/Serial.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/trap.c.obj.d"
+  "CMakeFiles/Serial.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj"
+  "CMakeFiles/Serial.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/l1c/hpm_l1c_drv.c.obj.d"
+  "CMakeFiles/Serial.elf.dir/C_/Users/11958/Desktop/Template/board/HPM6450/board_bsp.c.obj"
+  "CMakeFiles/Serial.elf.dir/C_/Users/11958/Desktop/Template/board/HPM6450/board_bsp.c.obj.d"
+  "CMakeFiles/Serial.elf.dir/C_/Users/11958/Desktop/Template/board/HPM6450/bsp/hpm6450dp_uart12.c.obj"
+  "CMakeFiles/Serial.elf.dir/C_/Users/11958/Desktop/Template/board/HPM6450/bsp/hpm6450dp_uart12.c.obj.d"
+  "CMakeFiles/Serial.elf.dir/C_/Users/11958/Desktop/Template/component/debug/serial_debug.c.obj"
+  "CMakeFiles/Serial.elf.dir/C_/Users/11958/Desktop/Template/component/debug/serial_debug.c.obj.d"
+  "CMakeFiles/Serial.elf.dir/C_/Users/11958/Desktop/Template/drivers/HPM/HPM6700/HPM6750/hpm_clock_drv.c.obj"
+  "CMakeFiles/Serial.elf.dir/C_/Users/11958/Desktop/Template/drivers/HPM/HPM6700/HPM6750/hpm_clock_drv.c.obj.d"
+  "CMakeFiles/Serial.elf.dir/C_/Users/11958/Desktop/Template/drivers/HPM/HPM6700/HPM6750/hpm_sysctl_drv.c.obj"
+  "CMakeFiles/Serial.elf.dir/C_/Users/11958/Desktop/Template/drivers/HPM/HPM6700/HPM6750/hpm_sysctl_drv.c.obj.d"
+  "CMakeFiles/Serial.elf.dir/C_/Users/11958/Desktop/Template/drivers/HPM/drivers/src/hpm_pcfg_drv.c.obj"
+  "CMakeFiles/Serial.elf.dir/C_/Users/11958/Desktop/Template/drivers/HPM/drivers/src/hpm_pcfg_drv.c.obj.d"
+  "CMakeFiles/Serial.elf.dir/C_/Users/11958/Desktop/Template/drivers/HPM/drivers/src/hpm_pllctl_drv.c.obj"
+  "CMakeFiles/Serial.elf.dir/C_/Users/11958/Desktop/Template/drivers/HPM/drivers/src/hpm_pllctl_drv.c.obj.d"
+  "CMakeFiles/Serial.elf.dir/C_/Users/11958/Desktop/Template/drivers/HPM/drivers/src/hpm_uart_drv.c.obj"
+  "CMakeFiles/Serial.elf.dir/C_/Users/11958/Desktop/Template/drivers/HPM/drivers/src/hpm_uart_drv.c.obj.d"
+  "CMakeFiles/Serial.elf.dir/C_/Users/11958/Desktop/Template/subsys/uart_hal/subsys_uart.c.obj"
+  "CMakeFiles/Serial.elf.dir/C_/Users/11958/Desktop/Template/subsys/uart_hal/subsys_uart.c.obj.d"
+  "CMakeFiles/Serial.elf.dir/main.c.obj"
+  "CMakeFiles/Serial.elf.dir/main.c.obj.d"
+  "build/Serial.elf"
+  "build/Serial.elf.manifest"
+  "build/Serial.elf.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang ASM C)
+  include(CMakeFiles/Serial.elf.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

@@ -17,14 +17,15 @@ set(CMAKE_ASM_TARGET_INCLUDE_PATH
   "../../arch"
   "../../arch/riscv/hpm"
   "../../arch/riscv/l1c"
-  "../../Drivers/HPM/HPM6700/HPM6750"
-  "../../Drivers/HPM/HPM6700/ip"
-  "../../Drivers/HPM/drivers/inc"
+  "../../drivers/HPM/HPM6700/HPM6750"
+  "../../drivers/HPM/HPM6700/ip"
+  "../../drivers/HPM/drivers/inc"
   )
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/11958/Desktop/Template/arch/riscv/hpm/system.c" "CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/system.c.obj" "gcc" "CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/system.c.obj.d"
+  "C:/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/stdio_weak.c" "CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/stdio_weak.c.obj" "gcc" "CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/gcc/stdio_weak.c.obj.d"
   "C:/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/initfini.c" "CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/initfini.c.obj" "gcc" "CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/initfini.c.obj.d"
   "C:/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/reset.c" "CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/reset.c.obj" "gcc" "CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/toolchains/reset.c.obj.d"
   "C:/Users/11958/Desktop/Template/arch/riscv/hpm/trap.c" "CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/trap.c.obj" "gcc" "CMakeFiles/hello.elf.dir/C_/Users/11958/Desktop/Template/arch/riscv/hpm/trap.c.obj.d"

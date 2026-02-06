@@ -37,7 +37,7 @@ message(STATUS "**** Building project: ${CMAKE_PROJECT_NAME}, Version: ${CMAKE_P
 
 
 # 指定链接文件
-set(LINKER_SCRIPT ${PATH_WORKSPACE_ROOT}/Board/stm32f407/stm32f407_flash_sram.ld)
+set(LINKER_SCRIPT ${PATH_WORKSPACE_ROOT}/board/stm32f407/stm32f407_flash_sram.ld)
 
 # 指定启动文件
 set(STARTUP_ASM ${PATH_WORKSPACE_ROOT}/arch/cortex-m4/cortex_m4_startup_gcc.s)

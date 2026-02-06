@@ -1,0 +1,26 @@
+
+{
+    "configurations": [
+        {
+            "cwd": "${workspaceFolder}",
+            "executable": "./build/serial.elf",
+            "name": "Debug with JLink",
+            "interface": "jtag",
+            "request": "launch",
+            "type": "cortex-debug",
+            "device":"HPM6450xVMx",
+            "runToEntryPoint": "main",
+            "showDevDebugOutput": "none",
+            "servertype": "external",
+            "gdbTarget": "127.0.0.1:2331",
+            "gdbPath": "${workspaceFolder}/../../tools/riscv/tool-chain/bin/riscv32-unknown-elf-gdb.exe",
+            "serverpath": "C:/Program Files/SEGGER/JLink_V798d/JLinkGDBServerCL.exe",
+            "overrideLaunchCommands": [
+                // 加载 GDB 脚本
+                "source C:/Users/11958/Desktop/Template/app/Hello_RISCV/ram.gdb",
+                "load"
+            ]
+            
+        }
+    ]
+}

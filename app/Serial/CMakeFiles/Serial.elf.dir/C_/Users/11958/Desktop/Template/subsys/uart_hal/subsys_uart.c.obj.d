@@ -1,0 +1,32 @@
+CMakeFiles/Serial.elf.dir/C_/Users/11958/Desktop/Template/subsys/uart_hal/subsys_uart.c.obj: \
+ C:/Users/11958/Desktop/Template/subsys/uart_hal/subsys_uart.c \
+ c:\users\11958\desktop\template\subsys\uart_hal\subsys_uart.h \
+ c:\users\11958\desktop\template\tools\riscv\tool-chain\riscv32-unknown-elf\include\stdio.h \
+ c:\users\11958\desktop\template\tools\riscv\tool-chain\riscv32-unknown-elf\include\_ansi.h \
+ c:\users\11958\desktop\template\tools\riscv\tool-chain\riscv32-unknown-elf\include\newlib.h \
+ c:\users\11958\desktop\template\tools\riscv\tool-chain\riscv32-unknown-elf\include\_newlib_version.h \
+ c:\users\11958\desktop\template\tools\riscv\tool-chain\riscv32-unknown-elf\include\sys\config.h \
+ c:\users\11958\desktop\template\tools\riscv\tool-chain\riscv32-unknown-elf\include\machine\ieeefp.h \
+ c:\users\11958\desktop\template\tools\riscv\tool-chain\riscv32-unknown-elf\include\sys\features.h \
+ c:\users\11958\desktop\template\tools\riscv\tool-chain\riscv32-unknown-elf\include\sys\cdefs.h \
+ c:\users\11958\desktop\template\tools\riscv\tool-chain\riscv32-unknown-elf\include\machine\_default_types.h \
+ c:\users\11958\desktop\template\tools\riscv\tool-chain\lib\gcc\riscv32-unknown-elf\11.1.0\include\stddef.h \
+ c:\users\11958\desktop\template\tools\riscv\tool-chain\lib\gcc\riscv32-unknown-elf\11.1.0\include\stdarg.h \
+ c:\users\11958\desktop\template\tools\riscv\tool-chain\riscv32-unknown-elf\include\sys\reent.h \
+ c:\users\11958\desktop\template\tools\riscv\tool-chain\riscv32-unknown-elf\include\_ansi.h \
+ c:\users\11958\desktop\template\tools\riscv\tool-chain\riscv32-unknown-elf\include\sys\_types.h \
+ c:\users\11958\desktop\template\tools\riscv\tool-chain\riscv32-unknown-elf\include\machine\_types.h \
+ c:\users\11958\desktop\template\tools\riscv\tool-chain\riscv32-unknown-elf\include\sys\lock.h \
+ c:\users\11958\desktop\template\tools\riscv\tool-chain\riscv32-unknown-elf\include\sys\types.h \
+ c:\users\11958\desktop\template\tools\riscv\tool-chain\riscv32-unknown-elf\include\sys\_stdint.h \
+ c:\users\11958\desktop\template\tools\riscv\tool-chain\riscv32-unknown-elf\include\machine\endian.h \
+ c:\users\11958\desktop\template\tools\riscv\tool-chain\riscv32-unknown-elf\include\machine\_endian.h \
+ c:\users\11958\desktop\template\tools\riscv\tool-chain\riscv32-unknown-elf\include\sys\select.h \
+ c:\users\11958\desktop\template\tools\riscv\tool-chain\riscv32-unknown-elf\include\sys\_sigset.h \
+ c:\users\11958\desktop\template\tools\riscv\tool-chain\riscv32-unknown-elf\include\sys\_timeval.h \
+ c:\users\11958\desktop\template\tools\riscv\tool-chain\riscv32-unknown-elf\include\sys\timespec.h \
+ c:\users\11958\desktop\template\tools\riscv\tool-chain\riscv32-unknown-elf\include\sys\_timespec.h \
+ c:\users\11958\desktop\template\tools\riscv\tool-chain\riscv32-unknown-elf\include\sys\_pthreadtypes.h \
+ c:\users\11958\desktop\template\tools\riscv\tool-chain\riscv32-unknown-elf\include\sys\sched.h \
+ c:\users\11958\desktop\template\tools\riscv\tool-chain\riscv32-unknown-elf\include\machine\types.h \
+ c:\users\11958\desktop\template\tools\riscv\tool-chain\riscv32-unknown-elf\include\sys\stdio.h

@@ -37,7 +37,7 @@ message(STATUS "**** Building project: ${CMAKE_PROJECT_NAME}, Version: ${CMAKE_P
 
 
 # 指定链接文件
-set(LINKER_SCRIPT ${PATH_WORKSPACE_ROOT}/Board/stm32f103_ethercat/stm32f103_flash_sram.ld)
+set(LINKER_SCRIPT ${PATH_WORKSPACE_ROOT}/board/stm32f103_ethercat/stm32f103_flash_sram.ld)
 
 # 指定启动文件
 set(STARTUP_ASM ${PATH_WORKSPACE_ROOT}/arch/cortex-m3/cortex_m3_startup_gcc.s)
@@ -73,22 +73,22 @@ set_source_files_properties(${STARTUP_ASM} PROPERTIES
 #架构
 set(Src_Arch
     ${PATH_WORKSPACE_ROOT}/arch/arm/arm-v7m/cortex-m3/cortex_m3_startup_gcc.s
-    ${PATH_WORKSPACE_ROOT}/Drivers/STM32F10x_StdPeriph_Driver/src/misc.c
+    ${PATH_WORKSPACE_ROOT}/drivers/STM32F10x_StdPeriph_Driver/src/misc.c
 )
 set(Inc_Arch
     ${PATH_WORKSPACE_ROOT}/arch/arm/arm-v7m/cortex-m3
 )
 #驱动
 set(Src_Drivers
-    ${PATH_WORKSPACE_ROOT}/Drivers/STM32F10x_StdPeriph_Driver/src/system_stm32f10x.c
-    ${PATH_WORKSPACE_ROOT}/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.c
-    ${PATH_WORKSPACE_ROOT}/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c
-    ${PATH_WORKSPACE_ROOT}/Drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.c
+    ${PATH_WORKSPACE_ROOT}/drivers/STM32F10x_StdPeriph_Driver/src/system_stm32f10x.c
+    ${PATH_WORKSPACE_ROOT}/drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.c
+    ${PATH_WORKSPACE_ROOT}/drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c
+    ${PATH_WORKSPACE_ROOT}/drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.c
 
 )
 
 set(Inc_Drivers
-    ${PATH_WORKSPACE_ROOT}/Drivers/STM32F10x_StdPeriph_Driver/inc
+    ${PATH_WORKSPACE_ROOT}/drivers/STM32F10x_StdPeriph_Driver/inc
 )
 
 
@@ -106,9 +106,9 @@ set(Src_Subsys
 # 应用
 # 添加源文件
 set(Src_App
-    ${PATH_WORKSPACE_ROOT}/Board/stm32f103_ethercat/board_bsp.c
-    ${PATH_WORKSPACE_ROOT}/Board/stm32f103_ethercat/bsp/stm32f103_ethercat_spi.c
-    ${PATH_WORKSPACE_ROOT}/Board/stm32f103_ethercat/bsp/stm32f103_spi2.c
+    ${PATH_WORKSPACE_ROOT}/board/stm32f103_ethercat/board_bsp.c
+    ${PATH_WORKSPACE_ROOT}/board/stm32f103_ethercat/bsp/stm32f103_ethercat_spi.c
+    ${PATH_WORKSPACE_ROOT}/board/stm32f103_ethercat/bsp/stm32f103_spi2.c
     ${CMAKE_CURRENT_LIST_DIR}/main.c
 )
 
