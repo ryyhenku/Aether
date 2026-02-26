@@ -1,6 +1,9 @@
 #include "et1100.h"
 #include "subsys_spi.h"
 
+extern void __entry_critical(void);
+extern void __exit_critical(void);
+
 typedef union
 {
     uint8_t  byte[2];
@@ -46,25 +49,55 @@ static void et1100_cmd(uint16_t address,uint16_t command)
     __g_spi_ops->pfn_spi_write(tx_cmd,tx_len);
 }
 
-
+void et1100_read_isr(void *pData, uint16_t Address, uint16_t Len)
+{
+    uint8_t tx_data = 0x00;
+    __entry_critical();
+    __g_spi_ops->pfn_spi_cs_select();
+    et1100_cmd(Address,ET1100_CMD_READ_WITH_FOLLOWING_WAIT_STATE_BYTES);
+    while(Len > 1) {
+        __g_spi_ops->pfn_spi_write_and_read(&tx_data,pData,1);
+        pData = (uint8_t*)pData + 1;
+        Len --;
+    }
+    tx_data = 0xff;
+    __g_spi_ops->pfn_spi_write_and_read(&tx_data,pData,1);
+    __g_spi_ops->pfn_spi_cs_deselect();
+    __exit_critical();
+}
 
 void et1100_read(void *pData, uint16_t Address, uint16_t Len)
 {
     uint8_t tx_data = 0xff;
+    __entry_critical();
     while(Len) {
+
         __g_spi_ops->pfn_spi_cs_select();
         et1100_cmd(Address,ET1100_CMD_READ_WITH_FOLLOWING_WAIT_STATE_BYTES);
         __g_spi_ops->pfn_spi_write_and_read(&tx_data,pData,1);
         __g_spi_ops->pfn_spi_cs_deselect();
+
         pData = (uint8_t*)pData + 1;
         Address ++;
         Len --;
     }
-    
+    __exit_critical();
+}
+
+void et1100_write_isr(void *pData, uint16_t Address, uint16_t Len)
+{
+    __entry_critical();
+    __g_spi_ops->pfn_spi_cs_select();
+    et1100_cmd(Address,ET1100_CMD_WRITE);
+    __g_spi_ops->pfn_spi_write(pData,Len);
+    __g_spi_ops->pfn_spi_cs_deselect();
+    __exit_critical();
+
 }
 
 void et1100_write(void *pData, uint16_t Address, uint16_t Len)
 {
+    __entry_critical();
     while(Len) {
         __g_spi_ops->pfn_spi_cs_select();
         et1100_cmd(Address,ET1100_CMD_WRITE);
@@ -74,6 +107,7 @@ void et1100_write(void *pData, uint16_t Address, uint16_t Len)
         Address ++;
         Len --;
     }
+    __exit_critical();
 }
 
 uint16_t et1100_get_alevent_reg(void)
@@ -94,12 +128,6 @@ int et1100_init()
         return -1;
     }
     __g_spi_ops->pfn_spi_init();
-
-    /*PDI引脚、SYNC0、SYNC1引脚初始化*/
-
-    //这里理论上应该是要实现一套像SPI、串口那样的公共接口
-    //目前先给出一个STM32的模板，暂时根据平台实现吧
-
 
     return 0;
 }

@@ -60,9 +60,10 @@ void SPI1_Write(void *p_tx_buffer,uint16_t size)
     while (size--)
     {
         while(SPI_I2S_GetFlagStatus(SPI1, SPI_I2S_FLAG_TXE)==RESET);
-        SPI_I2S_SendData(SPI1, *tx_data++);
+        SPI_I2S_SendData(SPI1,*tx_data);
 	    while(SPI_I2S_GetFlagStatus(SPI1, SPI_I2S_FLAG_RXNE)==RESET);
         (void)SPI_I2S_ReceiveData(SPI1);
+        tx_data++;
     }
 
 }
@@ -76,7 +77,8 @@ void SPI1_Read(void *p_rx_buffer, uint16_t size)
         while(SPI_I2S_GetFlagStatus(SPI1, SPI_I2S_FLAG_TXE)==RESET);
         SPI_I2S_SendData(SPI1, 0xFF); 
         while(SPI_I2S_GetFlagStatus(SPI1, SPI_I2S_FLAG_RXNE)==RESET);
-        *rx_data++ = SPI_I2S_ReceiveData(SPI1);
+        *rx_data = SPI_I2S_ReceiveData(SPI1);
+        rx_data++;
     }
 }
 
@@ -88,9 +90,11 @@ void SPI1_Write_And_Read(void *p_tx_buffer, void *p_rx_buffer, uint16_t size)
     while (size--)
     {
         while(SPI_I2S_GetFlagStatus(SPI1, SPI_I2S_FLAG_TXE)==RESET);
-        SPI_I2S_SendData(SPI1, *tx_data++);
+        SPI_I2S_SendData(SPI1, *tx_data);
         while(SPI_I2S_GetFlagStatus(SPI1, SPI_I2S_FLAG_RXNE)==RESET);
-        *rx_data++ = SPI_I2S_ReceiveData(SPI1);
+        *rx_data = SPI_I2S_ReceiveData(SPI1);
+        tx_data ++;
+        rx_data ++;
     }
 }
 

@@ -9,6 +9,7 @@ if(Board STREQUAL "stm32f103_ethercat")
         ${PATH_WORKSPACE_ROOT}/drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.c
         ${PATH_WORKSPACE_ROOT}/drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_usart.c
         ${PATH_WORKSPACE_ROOT}/drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_tim.c
+        ${PATH_WORKSPACE_ROOT}/drivers/STM32F10x_StdPeriph_Driver/src/stm32f10x_exti.c
     )
     set_property(GLOBAL PROPERTY Driver_Includes
         ${PATH_WORKSPACE_ROOT}/drivers/STM32F10x_StdPeriph_Driver/inc

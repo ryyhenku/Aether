@@ -16,6 +16,7 @@ if(Board STREQUAL "stm32f103_ethercat")
         ${PATH_WORKSPACE_ROOT}/board/stm32f103_ethercat/bsp/spi/stm32f103_ethercat_spi.c
         ${PATH_WORKSPACE_ROOT}/board/stm32f103_ethercat/bsp/uart/stm32f103_debug_uart.c
         ${PATH_WORKSPACE_ROOT}/board/stm32f103_ethercat/bsp/timer/stm32f103_timer2.c
+        ${PATH_WORKSPACE_ROOT}/board/stm32f103_ethercat/bsp/esc_gpio.c
     )
     set_property(GLOBAL PROPERTY Board_Includes
 

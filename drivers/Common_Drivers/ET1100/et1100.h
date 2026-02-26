@@ -5,7 +5,11 @@
 
 
 int et1100_init();
+
+void et1100_read_isr(void *pData, uint16_t Address, uint16_t Len);
 void et1100_read(void *pData, uint16_t Address, uint16_t Len);
+
+void et1100_write_isr(void *pData, uint16_t Address, uint16_t Len);
 void et1100_write(void *pData, uint16_t Address, uint16_t Len);
 
 /*  SSC FUNCTION */
@@ -15,10 +19,10 @@ void et1100_write(void *pData, uint16_t Address, uint16_t Len);
 
 /**< \brief Generic ESC (register and DPRAM) read access.*/
 #define HW_EscRead(pData, Address, Len)           et1100_read(pData, Address, Len)
-#define HW_EscReadIsr(pData, Address, Len)        et1100_read(pData, Address, Len)
+#define HW_EscReadIsr(pData, Address, Len)        et1100_read_isr(pData, Address, Len)
 /**< \brief Generic ESC (register and DPRAM) write access.*/
 #define HW_EscWrite(pData, Address, Len)          et1100_write(pData, Address, Len)
-#define HW_EscWriteIsr(pData, Address, Len)       et1100_write(pData, Address, Len)
+#define HW_EscWriteIsr(pData, Address, Len)       et1100_write_isr(pData, Address, Len)
 
 
 #if 0
@@ -32,11 +36,11 @@ void et1100_write(void *pData, uint16_t Address, uint16_t Len);
 
 # if 1
 /**< \brief 32Bit specific ESC (register and DPRAM) read access.*/
-#define HW_EscReadDWord(DWordValue, Address)      et1100_read((uint32_t*)(&DWordValue), Address,4)
-#define HW_EscReadDWordIsr(DWordValue, Address)   et1100_read((uint32_t*)(&DWordValue), Address,4)
+#define HW_EscReadDWord(DWordValue, Address)      et1100_read((void*)(&DWordValue), Address, 4)
+#define HW_EscReadDWordIsr(DWordValue, Address)   et1100_read_isr((void*)(&DWordValue), Address, 4)
 /**< \brief 32Bit specific ESC (register and DPRAM) write access.*/
-#define HW_EscWriteDWord(DWordValue, Address)     et1100_write((uint32_t*)(&DWordValue), Address,4)
-#define HW_EscWriteDWordIsr(DWordValue, Address)  et1100_write((uint32_t*)(&DWordValue), Address,4)
+#define HW_EscWriteDWord(DWordValue, Address)     et1100_write((void*)(&DWordValue), Address,4)
+#define HW_EscWriteDWordIsr(DWordValue, Address)  et1100_write_isr((void*)(&DWordValue), Address,4)
 #endif /* ESC_32BIT_ACCESS */
 
 /**< \brief Macro to copy data from the application mailbox memory(not the ESC memory).*/
