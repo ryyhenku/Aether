@@ -6,9 +6,6 @@ if(Arch STREQUAL "arm")
 
     )
 
-    set_property(GLOBAL PROPERTY Arch_Includes
-        ${PATH_WORKSPACE_ROOT}/arch/arm/arm-v7m/cortex-m3
-    )
 
 elseif(Arch STREQUAL "riscv")
 

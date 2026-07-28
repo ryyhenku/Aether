@@ -21,6 +21,36 @@ if(Board STREQUAL "stm32f103_ethercat")
     set_property(GLOBAL PROPERTY Board_Includes
 
     )
+    set_property(GLOBAL PROPERTY Arch_Includes
+        ${PATH_WORKSPACE_ROOT}/arch/arm/arm-v7m/cortex-m3
+    )
+
+
+elseif(Board STREQUAL "stm32f407")
+
+    set(Startup_ASM
+        ${PATH_WORKSPACE_ROOT}/arch/arm/arm-v7m/cortex-m4/cortex_m4_startup_gcc.s
+    )
+
+    set_property(GLOBAL PROPERTY Startup_ASM ${Startup_ASM})
+
+    set_property(GLOBAL PROPERTY LINKER_SCRIPT 
+        ${PATH_WORKSPACE_ROOT}/board/stm32f407/stm32f407_flash_sram.ld
+    )
+    set_property(GLOBAL PROPERTY Board_Sources
+        ${PATH_WORKSPACE_ROOT}/board/stm32f407/bsp/pwm/stm32f407_pwm1.c
+        ${PATH_WORKSPACE_ROOT}/board/stm32f407/bsp/uart/stm32f407_debug_uart.c
+        ${PATH_WORKSPACE_ROOT}/board/stm32f407/bsp/rcc/stm32f407_rcc.c
+        ${PATH_WORKSPACE_ROOT}/board/stm32f407/bsp/gpio/stm32f407_gpio.c
+        ${PATH_WORKSPACE_ROOT}/board/stm32f407/bsp/tim/stm32f407_tim2.c
+        ${PATH_WORKSPACE_ROOT}/board/stm32f407/board_bsp.c
+    )
+    set_property(GLOBAL PROPERTY Board_Includes
+
+    )
+    set_property(GLOBAL PROPERTY Arch_Includes
+        ${PATH_WORKSPACE_ROOT}/arch/arm/arm-v7m/cortex-m4
+    )
 
 elseif(Board STREQUAL "HPM6450")
 

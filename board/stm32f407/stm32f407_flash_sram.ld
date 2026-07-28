@@ -63,6 +63,7 @@ SECTIONS
     .bss :
     {
         . = ALIGN(4);
+        PROVIDE(__bss_start__ = .);
         _sbss = .;             /* .bss段起始地址 */
         *(.bss)
         *(.bss*)
@@ -71,6 +72,7 @@ SECTIONS
         _ebss = .;             /* .bss段结束地址 */
         . = ALIGN(4);
         PROVIDE(end = .);      /* 定义 'end' 符号 给printf用 */
+        PROVIDE(__bss_end__ = .);
     } >RAM
 
 }

@@ -14,7 +14,18 @@ if(Board STREQUAL "stm32f103_ethercat")
     set_property(GLOBAL PROPERTY Driver_Includes
         ${PATH_WORKSPACE_ROOT}/drivers/STM32F10x_StdPeriph_Driver/inc
     )
-
+elseif(Board STREQUAL "stm32f407")
+    set_property(GLOBAL PROPERTY Driver_Sources
+        ${PATH_WORKSPACE_ROOT}/drivers/STM32F4xx_StdPeriph_Driver/src/misc.c
+        ${PATH_WORKSPACE_ROOT}/drivers/STM32F4xx_StdPeriph_Driver/src/system_stm32f4xx.c
+        ${PATH_WORKSPACE_ROOT}/drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c
+        ${PATH_WORKSPACE_ROOT}/drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.c
+        ${PATH_WORKSPACE_ROOT}/drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.c
+        ${PATH_WORKSPACE_ROOT}/drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.c
+    )
+    set_property(GLOBAL PROPERTY Driver_Includes
+        ${PATH_WORKSPACE_ROOT}/drivers/STM32F4xx_StdPeriph_Driver/inc
+    )
 elseif(Board STREQUAL "HPM6450")
 
     set_property(GLOBAL PROPERTY Driver_Sources
@@ -34,9 +45,9 @@ endif()
 
 
 set_property(GLOBAL PROPERTY Common_Driver_Sources
-    ${PATH_WORKSPACE_ROOT}/drivers/Common_Drivers/ET1100/ET1100.c
+    #${PATH_WORKSPACE_ROOT}/drivers/Common_Drivers/ET1100/ET1100.c
 )
 
 set_property(GLOBAL PROPERTY Common_Driver_Includes
-    ${PATH_WORKSPACE_ROOT}/drivers/Common_Drivers/ET1100/
+    #${PATH_WORKSPACE_ROOT}/drivers/Common_Drivers/ET1100/
 )

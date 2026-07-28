@@ -2,7 +2,6 @@
 #include "subsys_uart.h"
 #include "serial_debug.h"
 #include <stdio.h>
-#include "stm32f10x_tim.h"
 
 uint32_t count = 0;
 
