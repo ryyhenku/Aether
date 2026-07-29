@@ -130,7 +130,7 @@ int __stm32f407_gpio_toggle(uint8_t port, uint8_t pin)
 }
 
 static gpio_ops_t __stm32f407_gpio_ops = {
-    "STM32F407_GPIO",
+    "GPIO",
     __stm32f407_gpio_init,
     __stm32f407_gpio_write,
     __stm32f407_gpio_read,

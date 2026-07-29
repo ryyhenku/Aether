@@ -3,7 +3,7 @@ cmake_minimum_required(VERSION 3.5.0)
 if(Arch STREQUAL "arm")
 
     set_property(GLOBAL PROPERTY Arch_Sources
-
+        ${PATH_WORKSPACE_ROOT}/arch/arm/arm-v7m/systick_delay.c
     )
 
 
